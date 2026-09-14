@@ -1,0 +1,593 @@
+input_row_key,veridion_id,company_name,company_legal_names,main_country,main_country_code,main_region,main_city,revenue,employee_count,year_founded,main_sector,sics_codified_industry,website_url
+0,26e22210-93e5-11eb-b997-8dd98d09cf25,New Millennium Network,New Millennium Network Private Limited | MNET Services Private Limited,Pakistan,PK,Sindh,Karachi,311793.0,23.0,2001.0,IT&C Services,Media & Entertainment,https://www.mnet.com.pk/
+1,8b99ef83-93e4-11eb-b997-8dd98d09cf25,2operate,2operate A/S.,Denmark,DK,North Denmark Region,Aalborg Municipality,28698964.0,75.0,,IT&C Services,Telecommunication Services,https://www.2operate.com/
+2,45309031-f8ab-11ed-89fe-613148a94f23,3 Step IT A/S.,3 Step IT A/S.,Denmark,DK,Capital Region Of Denmark,Gladsaxe Municipality,,,,Finance & Insurance,,http://www.3stepit.dk/?opi=79508299&sa=U&ved=0ahUKEwiKsvSF7tyMAxWo78kDHfZKCtQQ61gIFCgQ&usg=AOvVaw1O2VrP_KM3o5n9XzsuUwLL
+3,08f48bc2-72c9-11ec-96d1-1d653dff9d1b,NIFU,,Norway,NO,Oslo,Oslo,1785892.0,8.0,,Other Professional Services,,https://iscy.no/
+4,18851138-0c9f-11ec-bde4-478e66fdcca6,We Dig It,We dig it Sweden AB.,Sweden,SE,Örebro County,Örebro,2545712.0,15.0,,Advertising & Marketing,Advertising & Marketing,https://wedigit.se/
+5,df61d790-93e4-11eb-aa66-9b8d95e2171b,3Degrees Inc.,3Degrees Inc. | 3Degrees Group Inc.,United States,US,California,San Francisco,,,2010.0,Architecture & Engineering Services,Solar Technology & Project Developers,http://3degreesinc.com/
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,3Step IT Group,3 Step IT Sweden AB. | 3 Step IT Singapore Pte Ltd. | 3 Step IT UK Limited,Finland,FI,Uusimaa,Helsinki,111438832.0,600.0,2004.0,IT&C Services,Multiline and Specialty Retailers & Distributors,https://sg.3stepit.com/
+7,08330b7d-aeb0-11ef-ac6a-636c4f5076ef,AT RÖRSERVICE,AT Rörservice AB.,Sweden,SE,Stockholm County,Stockholm,3987137.0,25.0,2008.0,Construction,Professional & Commercial Services,https://www.vvshagersten.se/
+8,4f44b02e-17aa-11f0-87dc-2b7a69541cf4,ATKEARNEY,,,,,,,,,Finance & Insurance,Software & IT Services,https://atkearney.top/#/
+9,272b8711-93e5-11eb-8e19-198fb02d6f96,AALBORG CITY,,Denmark,DK,North Denmark Region,Aalborg,16195217.0,75.0,,Government,Multiline and Specialty Retailers & Distributors,https://aalborgcity.dk/
+10,182e8830-1b02-11ec-81d0-432e4ac5b2cc,Accenture Norge,,Norway,NO,Oslo,Oslo,,,,Other Professional Services,,https://www.accenture.no/
+11,0dabe191-0ca8-11ec-8cf8-f323b148f4ea,Reffo Invest,,Denmark,DK,Region Of Southern Denmark,Odense,310307.0,1.0,,Finance & Insurance,,http://reffoinvest.com/
+12,fed105d4-93e4-11eb-9937-4fab995bf8ff,ACOME Company a Cooperative,ACOME GmbH,France,FR,Ile-de-France,Paris,655900032.0,3000.0,1932.0,Electronics & Appliances,Electrical & Electronic Equipment,https://www.acome.com/en
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Acome Xintai Cables Co. Ltd.,Acome Xintai Cables Co. Ltd.,China,CN,Beijing,Chaoyang,,,,,,
+14,e8772100-93e4-11eb-b5f6-816dd10ac7b0,Adapt Agency,Adapt A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,35819152.0,160.0,1998.0,Advertising & Marketing,Advertising & Marketing,https://adaptagency.com/
+15,76ed93c2-93e4-11eb-8e19-198fb02d6f96,Crone & Co.,Crone & Co.,Denmark,DK,Capital Region Of Denmark,Kongens Lyngby,873785.0,4.0,2004.0,Advertising & Marketing,Professional & Commercial Services,https://croneandco.com/
+16,410a4cc3-93e5-11eb-9937-4fab995bf8ff,Adecco Singapore,Adecco Personnel Pte Ltd.,Singapore,SG,Central,Singapore,,,,Other Professional Services,Professional & Commercial Services,http://www.adecco.com.sg/
+17,a006c0ae-82d7-11ed-81b5-efac09e6a9d9,Adobe X 김씨네 과일,Adobe Systems Software Ireland Limited,,,,,,,,,,https://adobe-kimsfruits.com/
+18,47b15560-93e5-11eb-91fb-73d498260b10,ADB,ADB Italia S.r.l. | Advanced Digital Broadcast SA.,Switzerland,CH,Geneva,Pregny-Chambésy,450000000.0,350.0,1995.0,Publishers & Media Companies,Telecommunication Services,https://www.adbglobal.com/
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Network Solutions Sdn. Bhd.,Advanced Network Solutions Sdn. Bhd.,Malaysia,MY,Selangor,Shah Alam,,,,,,
+20,a9f7869f-93e4-11eb-97db-273ba5953680,Advansia,,Norway,NO,Oslo,Oslo,201516784.0,600.0,2010.0,Architecture & Engineering Services,Engineering & Construction Services,https://www.advansia.no/
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Aeger Group,,Norway,NO,Oslo,Oslo,3709650.0,13.0,2012.0,IT&C Services,Software & IT Services,https://www.aeger.no/
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,Affirmed Networks,,United States,US,Massachusetts,Acton,75000000.0,120.0,2010.0,IT&C Services,,https://www.affirmednetworks.com/
+23,475daed5-0c7d-11ec-b9ed-b7cae580407c,AGG Power,,China,CN,Fujian,Fuzhou City,5672347.0,85.0,,Electronics & Appliances,Industrial Machinery & Goods,http://aggpower.cn/
+24,25f047fc-93e5-11eb-a736-0f5b20ecb2f1,AIA PRS,,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Finance & Insurance,,http://www.aia-prs.com.my/en/help-and-support/contact-us.html
+25,379975dc-93e5-11eb-90d2-e3355a7e800b,AIG Norge,AIG Europe S.A.,Norway,NO,Oslo,Oslo,28010168.0,20.0,1988.0,Finance & Insurance,Insurance,https://www.aig.no/
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Aktieselskabet Rødovre Centrum,,Denmark,DK,Capital Region Of Denmark,Rødovre Municipality,,,,,,
+27,19609053-0bbc-11ee-900c-9bee0d280070,A&O Shearman,Allen Overy Shearman Sterling LLP.,United Kingdom,GB,England,London,2400000000.0,5800.0,1930.0,Legal,Professional & Commercial Services,https://www.aoshearman.com/en
+28,0a1c6e98-0ef3-11ec-8a5e-a1d19a176204,Ecogradia,Ecogradia Private Limited.,Singapore,SG,Central,Singapore,1560850.0,7.0,2021.0,Architecture & Engineering Services,Engineering & Construction Services,https://www.ecogradia.com/
+29,6be202b0-a899-11ed-a9cf-ff6a091ebade,P o STER ART,WIX Amazon Web Services Inc.,United States,US,Washington,Seattle,340357.0,1.0,,Other Durable Products,Leisure Facilities,https://posterart.art/
+30,d7db1d69-93e4-11eb-90d2-e3355a7e800b,TKBEL,Amazon Web Service EMEA SARL,Luxembourg,LU,Canton Diekirch,Ettelbruck,1091872.0,4.0,2020.0,Education,Software & IT Services,https://tkbel.fr/
+31,005e54d5-fe34-11ed-a0e7-61d839268e35,Banh Mi XO,,Norway,NO,Oslo,Oslo,12928616.0,15.0,,Food & Beverages,Restaurants,https://www.banhmixo.no/
+32,0e49a2f2-13c3-11ec-905e-ffe44897cbcf,Amdocs,,,,,,,,,IT&C Services,Telecommunication Services,http://xacct.net/
+33,0078e966-93e5-11eb-b997-8dd98d09cf25,American Steakhouse,,Denmark,DK,,,752435.0,15.0,,Accommodation & Food Services,"Meat, Poultry & Dairy",https://butcher.dk/
+34,d791fd63-e113-11ec-a72c-1538a9321a8e,American Express Company AS,,Norway,NO,Oslo,Oslo,,,,Finance & Insurance,,http://www.americanexpress.no/?opi=79508299&sa=U&ved=0ahUKEwiJ-N_liKSMAxX2TGwGHZRzErcQ61gIEigO&usg=AOvVaw27wLoj6gX0wm9eKmXSSFGk
+35,e97d1f55-93e4-11eb-be3a-7f925cb94351,Analysys Mason,Analysys Mason Limited,Italy,IT,Lombardy,Milan,95000000.0,470.0,1985.0,Other Professional Services,Advertising & Marketing,https://www.analysysmason.com/
+36,0320d8d1-0481-11ed-bbf3-154c5cd4a90a,Mason Transport & Logistics,MASON TRANSPORT & LOGISTICS LTD.,United Kingdom,GB,England,Birkenhead,,,,,,http://masontransportlogistics.com/
+37,d7aa707f-93e4-11eb-9937-4fab995bf8ff,Andco A/S.,Andco A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,16790228.0,75.0,,Advertising & Marketing,Advertising & Marketing,https://www.andco.dk/
+38,bece9f0e-e4d2-11ec-a140-3f2eb8ef49f8,Annalect,,Denmark,DK,Capital Region Of Denmark,Copenhagen,16790228.0,75.0,,Advertising & Marketing,Advertising & Marketing,https://annalect-data.info/
+39,02115b2b-65f6-11ef-a567-7774974824cc,Anne Mette Høy,,Denmark,DK,Region Of Southern Denmark,Vejle,,,,Health Care & Social Assistance,,http://mindre-stress.dk/?opi=79508299&sa=U&ved=0ahUKEwi4mfaSm-SMAxVfE1kFHS_HLHoQ61gIEigP&usg=AOvVaw21SI8OJlgK9_li2AWT-KF8
+40,172e7ea7-0523-11ec-a64f-cb86dbe4969b,ANRITSU,,,,,,,,,Food & Beverages,"Meat, Poultry & Dairy",https://tiancunwu.com/
+41,00854562-93e5-11eb-90d2-e3355a7e800b,Globe Tracker,Globe Tracker ApS. | Globe Tracker Singapore Pte. Ltd.,Denmark,DK,Capital Region Of Denmark,Copenhagen,15000000.0,75.0,2016.0,Transport & Warehousing,Engineering & Construction Services,https://www.globetracker.com/
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,Aon Norway,,Norway,NO,Oslo,Oslo,,82.0,,,,
+43,53387611-2d31-11ed-90b3-690faa09a1a7,AppDynamics,,,,,,,,,IT&C Services,Software & IT Services,https://appdynamics.shop/
+44,72b33d10-1afd-11ec-9842-212d1c52ad77,Apple Distribution International,,Ireland,IE,Munster,Cork,,,,,,
+45,72b33d10-1afd-11ec-9842-212d1c52ad77,Apple Distribution International,,Ireland,IE,Munster,Cork,,,,,,
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,Apple Malaysia Sdn Bhd.,Apple Malaysia Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,,,
+47,05227438-93e5-11eb-8859-29e7c34dee35,Asia biogas,Asia Biogas Co Ltd. | Asia Biogas Thailand Co. Ltd.,Thailand,TH,Bangkok,Pathum Wan,1774341.0,75.0,1999.0,Resources & Energy,Biofuels,http://www.asiabiogas.com/
+48,0233ab52-aa7c-11ec-bce7-45193b30c3a8,Mixto As,,Norway,NO,Oslo,Oslo,1498524.0,3.0,2017.0,Other Capital Goods,Industrial Machinery & Goods,https://www.mixto.no/
+49,2ea1cc81-6cec-11ec-b66d-cb87af2d682b,Arelion,,,,,,,1.0,,Blogs & Publications,Media & Entertainment,https://arelion.wordpress.com/
+50,773f66c3-d1e9-11ee-a6c6-5f6c2747c12d,ARY SERVICES LIMITED,ARY SERVICES LIMITED,Pakistan,PK,,,,,,,,https://aryservices.com.pk/
+51,c7288490-93e4-11eb-8859-29e7c34dee35,Ascio Technologies,Ascio Technologies Corp.,Denmark,DK,Capital Region Of Denmark,Copenhagen,5400000.0,71.0,1999.0,IT&C Services,Software & IT Services,https://www.ascio.com/
+52,0054d420-11a8-11ec-a2c4-217a4c183987,Birk Denmark,Birk Denmark ApS.,Denmark,DK,Central Denmark Region,Skive Municipality,12539290.0,15.0,,Pharmaceuticals & Cosmetics,Household & Personal Products,https://birkdenmark.com/
+53,431d0020-93e5-11eb-be5a-4f810ab55f2e,Atea Danmark,Atea ASA. | Atea Finans A/S.,Denmark,DK,Capital Region Of Denmark,Ballerup,14100000.0,1400.0,1968.0,IT&C Services,Hardware,http://www.atea.dk/
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,Atea ASA.,Atea ASA.,Norway,NO,Oslo,Oslo,600000000.0,2500.0,1968.0,IT&C Services,Software & IT Services,https://www.atea.no/
+55,717f28eb-2d3c-11ed-a1a2-799ac1ae4007,Faxe365,ATEA Sverige AB.,,,,,,1.0,,Blogs & Publications,Telecommunication Services,https://faxe365.com/
+56,5e1eacfe-1af9-11ec-9211-addac7307e1d,Np International A/S.,Np International A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,,,
+57,5f774202-8528-11ec-b5ad-0d28dc61df96,Trebolis,Atrebo S.L.,Spain,ES,Andalusia,Sevilla,6409361.0,75.0,,IT&C Services,Software & IT Services,https://www.trebolis.com/
+58,0cc7acd4-0539-11ec-9e19-99693ec6a060,Aalborg Kloakservice,Aalborg Kloakservice ApS.,Denmark,DK,North Denmark Region,Svenstrup,3211252.0,15.0,,Architecture & Engineering Services,Engineering & Construction Services,https://aakloak.dk/
+59,65315fc3-0695-11ef-a74a-2d2c9a18d857,Aviat Electric Store,,Bangladesh,BD,Mymensingh Division,Netrokona,,,,Electronics & Appliances,,
+60,a3b73ba0-c4fc-11ec-b6cb-fdc55dfeae3a,Aviat Networks,,,,,,,,,IT&C Services,Telecommunication Services,https://aviatnetworks.wordpress.com/
+61,85513392-93e4-11eb-90d2-e3355a7e800b,ISDF,,United Arab Emirates,AE,Sharjah Emirate,Sharjah,24793384.0,75.0,2012.0,Electronics & Appliances,Multiline and Specialty Retailers & Distributors,http://isdfuae.com/
+62,79b2afc2-9ba7-11ec-81bb-a98020a63841,Axteq,Axteq ApS.,Denmark,DK,Region Zealand,Greve Strand,2726236.0,6.0,2007.0,IT&C Services,Telecommunication Services,https://axteq.dk/
+63,eea35cb5-1206-11ec-a59d-d5061f333c7e,AZ Technology,AZ-Technology Sdn Bhd.,Malaysia,MY,Selangor,Petaling Jaya,11588822.0,75.0,,Electronics & Appliances,Telecommunication Services,https://az-tech.my/
+64,3ea0da62-8ab7-11ec-ac1c-2de22eb6a532,BAE Systems Applied Intelligence,,United Kingdom,GB,England,Guildford,728200000.0,,1971.0,IT&C Services,,https://www.baesystemsdetica.com/
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Basico P/S.,Basico P/S.,Denmark,DK,Capital Region Of Denmark,Gentofte Municipality,,,,Other Professional Services,,
+66,73933609-0e76-11ec-907e-a76683593b73,Amon Tour,Flame BB Co. Ltd.,Thailand,TH,Krabi Province,,,,2016.0,Other Consumer Services,Leisure Facilities,https://amon-tour.com/en/
+67,7d0a47e3-ff7e-11eb-845f-a19096e0da97,MAXITASK,BB TECHNOLOGY CO. LTD.,,,,,,75.0,,IT&C Services,Telecommunication Services,https://maxitask.com/
+68,19b7bf64-6a16-11ec-b931-3729d84df188,BCD Engineering,BCD Engineering Pte Ltd.,Singapore,SG,Central,Singapore,18452336.0,75.0,,Construction,Electrical & Electronic Equipment,http://www.bcdglobal.com.sg/
+69,7ea57014-93e4-11eb-8ad6-7326edce8d21,BCD Group,BCD Group N.V.,Netherlands,NL,Utrecht,Utrecht,8800000000.0,3000.0,1975.0,Other Consumer Services,Professional & Commercial Services,https://www.bcdgroup.com/
+70,c62a45a0-6cf1-11ec-bd63-974170f7dbf6,Beat,Beat A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,2003.0,Publishers & Media Companies,Advertising & Marketing,http://www.beat.dk/
+71,d037a93e-18b9-11f0-94fa-471c68e22274,Beijing High-tech Dynamic Power Co. Ltd.,Beijing High-tech Dynamic Power Co. Ltd.,China,CN,Beijing,Fengtai District,,,,Electronics & Appliances,Fuel Cells & Industrial Batteries,https://htdp.com.cn/
+72,1cdc1a43-6dce-11ec-a314-7d00415f726f,BigID,,United States,US,New York,New York,,,,IT&C Services,,https://bigid.me/
+73,8bd572a1-01b3-11ef-a950-57d6400676e3,Binkies,,Netherlands,NL,South Holland,The Hague,604754.0,13.0,,Accommodation & Food Services,Leisure Facilities,https://binkiesdenhaag.nl/
+74,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Blackwood Seven,Blackwood Seven A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,2000000.0,38.0,2013.0,IT&C Services,Advertising & Marketing,https://blackwoodseven.com/
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Blom Søefeldt - Erhvervspsykologisk Rådgivning,,Denmark,DK,Capital Region Of Denmark,Copenhagen,2699188.0,30.0,,Health Care & Social Assistance,,https://blomsoefeldt.dk/
+76,f6ae0b86-93e4-11eb-91fb-73d498260b10,Boost,,Norway,NO,Rogaland,Sandnes,8000000.0,180.0,2016.0,IT&C Services,Professional & Commercial Services,https://boost.ai/
+77,a80097e2-aeff-11ef-a550-45d601d5781f,Bording Dannmark A/S.,Bording Dannmark A/S.,Denmark,DK,Capital Region Of Denmark,Hvidovre Municipality,2055733.0,13.0,,"Arts, Entertainment & Recreation",Multiline and Specialty Retailers & Distributors,https://julemaerkelotteri.dk/
+78,7f5697a9-93e4-11eb-8e19-198fb02d6f96,Braathens,Braathens International Airways AB.,,,,,,,1946.0,Transport & Warehousing,Airlines,https://www.braathens.com/
+79,efc08410-93e4-11eb-a746-fdabd18be9c6,Brainchild Communications Pakistan,Brainchild Communications Pakistan Pvt Limited,Pakistan,PK,Sindh,Karachi Division,850985.0,160.0,1997.0,Advertising & Marketing,Advertising & Marketing,https://brainchild.net/
+80,f6c033f6-93e4-11eb-8859-29e7c34dee35,Brobizz,Brobizz A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,14588839.0,75.0,2008.0,Transport & Warehousing,Professional & Commercial Services,https://brobizz.com/
+81,91a6c984-27a7-11ef-ba21-2b94af863263,Bundgaard Køleteknik A/S.,Bundgaard Køleteknik A/S.,Denmark,DK,Region Of Southern Denmark,Vejle,,,,Construction,,
+82,2a0c38dd-93e5-11eb-8474-3bbe2d07207d,Bynder,Bynder BV. | Bynder Pty Ltd. | Bynder Limited,Netherlands,NL,North Holland,Amsterdam,100000000.0,600.0,2013.0,IT&C Services,Software & IT Services,https://www.bynder.com/en/
+83,2d5be122-0a6a-11ec-b841-af64738d2bcd,CW Aero Services,CW Aero Services Pte Ltd.,Singapore,SG,Central,Singapore,10126821.0,25.0,2017.0,Other Capital Goods,Aerospace & Defense,https://cwaeroservices.com/
+84,73d641b5-93e4-11eb-91fb-73d498260b10,Campana Group,Campana Group Private Limited,Singapore,SG,Southeast,,15000000.0,46.0,2014.0,IT&C Services,Telecommunication Services,https://campanaworks.com/
+85,9dc12706-93e4-11eb-8e19-198fb02d6f96,CBRE Norway,,Norway,NO,Oslo,Oslo,74415251456.0,135000.0,2023.0,Real Estate,Real Estate,https://www.cbre.no/
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,CBRE Teknisk servicepartner,CBRE Teknisk servicepartner A/S.,Denmark,DK,North Denmark Region,Aalborg,230000000.0,340.0,2007.0,Construction,Engineering & Construction Services,https://cbre-tekniskservicepartner.dk/
+87,f0e66671-93e4-11eb-b4a6-27899be4e45d,Cellusys,Cellusys Limited,Ireland,IE,Leinster,Dublin,8500000.0,95.0,2004.0,IT&C Services,Telecommunication Services,https://www.cellusys.com/
+88,0729a734-69ff-11ec-a83b-a57bf486820a,Centerforeningen for Nyvangsparken,,Denmark,DK,,,,,,Non Profit,,https://nyvangsparkens.dk/
+89,ffcc1654-120e-11ec-8f83-091abf327b82,CETIN Hungary,CETIN Hungary Zrt.,Hungary,HU,Pest,Törökbálint,20422574.0,200.0,2020.0,IT&C Services,Telecommunication Services,https://cetin.hu/
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,China Telecom Global,Innovic Technology Corporation Limited,Hong Kong,HK,Hong Kong,Hong Kong Island,2400000.0,287076.0,2012.0,IT&C Services,Telecommunication Services,https://www.chinatelecomglobal.com/
+91,bd5d453c-c0b6-11ec-985b-d74077f0fb21,China Unicom Singapore,,Singapore,SG,Central,Singapore,19471312.0,29.0,2009.0,IT&C Services,,
+92,4db78ad2-c000-11ec-8d01-9b40ae94c55f,Chubb Global Risk Advisors,Chubb Global Risk Advisors Pte Ltd.,Singapore,SG,Central,Singapore,19513632.0,75.0,,Other Professional Services,Professional & Commercial Services,https://www.cgra.com.sg/
+93,23947da4-93e5-11eb-a33a-a3dfba582839,Cibicom,Cibicom A/S. | Cibicom Services A/S.,Denmark,DK,Capital Region Of Denmark,Ballerup,71210440.0,150.0,,IT&C Services,,https://cibicom.com/
+94,9cc86f27-93e4-11eb-8e19-198fb02d6f96,Ciena,,United Kingdom,GB,England,London,,,2009.0,IT&C Services,Telecommunication Services,https://www.ciena.in/
+95,ced50c03-053f-11ec-9f27-3fe86a5559bb,Cisco Blue,Cisco Blue Limited.,United Kingdom,GB,,,7168688.0,15.0,1996.0,Construction,Engineering & Construction Services,https://ciscoblue.co.uk/
+96,9efd3f68-c418-11ef-92e8-6df27b7ad8f3,Cisco Systems Norway AS,,Norway,NO,Viken,Bærum,,,,,,
+97,14fe8332-93e5-11eb-8ad6-7326edce8d21,Citero,,Norway,NO,Trøndelag,Trondheim,3785642.0,40.0,2016.0,Advertising & Marketing,Professional & Commercial Services,http://citero.no/
+98,def72ee7-93e4-11eb-aa66-9b8d95e2171b,ClouderaNOW24,Cloudera Singapore Pte Ltd. | Cloudera Inc.,United States,US,California,Santa Clara,,,,IT&C Services,Software & IT Services,http://greaterrichmondhomeloanconnect.com/
+99,01fb2fa2-a7fa-11ef-9e6b-b90a330e89d5,CM Boost Studio,CM Boost Studio Sdn Bhd.,Malaysia,MY,Selangor,Subang Jaya,548715.0,15.0,,Advertising & Marketing,Advertising & Marketing,https://www.cmbooststudio.com/
+100,bc123527-8bac-11ee-b27d-7f55bd54b676,Mecadliber,COMBA TELECOM HOLDING HK LIMITED,Hong Kong,HK,Hong Kong,Kowloon,,,,"Apparel, Accessories & Footwear",Industrial Machinery & Goods,https://mecadliber.store/
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,COMENGINEERING SDN BHD.,COMENGINEERING SDN BHD.,Malaysia,MY,Selangor,Subang Jaya,,,,,,
+102,02bc49a3-93e5-11eb-b89f-536884b3e7dd,HOMENET,Home Network Solutions Singapore Pte Ltd.,Singapore,SG,Central,Singapore,33350486.0,75.0,2014.0,IT&C Services,Telecommunication Services,https://homenet.sg/
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,Commscope Technologies Ag,,Switzerland,CH,Zurich,Bachenbülach,,,,,,
+104,0094d3b3-1b06-11ec-8d54-8181ab1eaaa9,CommScope,,United States,US,Nebraska,Omaha,,,,,,
+105,8913e0f5-93e4-11eb-91fb-73d498260b10,Comviva Technologies,Comviva Technologies Limited,India,IN,Haryana,Gurugram,88700000.0,3300.0,1999.0,IT&C Services,Telecommunication Services,https://www.comviva.com/
+106,16119325-f3c9-11ed-bdfe-9de54b3cad17,Conscia Holdco A/S.,Conscia Holdco A/S.,Denmark,DK,Capital Region Of Denmark,Brøndby,,,,,,
+107,be890a78-9d75-11ed-816c-8fdd7f384ea6,Control Risks Group Holdings Ltd.,Control Risks Group Holdings Ltd.,United Kingdom,GB,England,London,107300000.0,,1975.0,,,https://www.controlrisks.net/
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,Corporate Communications,,Norway,NO,Oslo,Oslo,27943802.0,83.0,2011.0,Advertising & Marketing,Professional & Commercial Services,https://corporatecommunications.no/
+109,f62860c0-93e4-11eb-8e19-198fb02d6f96,Coupa,Coupa Software Inc.,United States,US,California,San Mateo,838000000.0,3076.0,2006.0,IT&C Services,Software & IT Services,https://www.coupa.com/
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera Inc.,Coursera Inc.,United States,US,California,Mountain View,,,,Legal,Professional & Commercial Services,https://translate-coursera.org/
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon A/S.,Crayon A/S.,Denmark,DK,Central Denmark Region,Silkeborg,,,,IT&C Services,,
+112,a8683402-93e4-11eb-919a-b3f9a5ad205c,CRAYON,Crayon Deutschland GmbH,Norway,NO,Oslo,Oslo,2912310.0,8.0,2003.0,IT&C Services,Software & IT Services,https://rewired.no/
+113,11ca0c36-93e5-11eb-b997-8dd98d09cf25,Crayon Digital Pte Ltd.,Crayon Digital Pte Ltd.,Singapore,SG,Central,Singapore,450432.0,2.0,,Advertising & Marketing,,https://crayondigital.net/
+114,01be7de3-0c24-11ec-aa7c-a3d935d57c91,CrowdStrike,CrowdStrike Zero Trust,United States,US,California,Sunnyvale,,,2022.0,IT&C Services,Software & IT Services,https://www.mdcoin.net/
+115,c7c58151-43ae-11ef-b5d2-e5c02fb4c089,Searcher,Searcher ApS.,Denmark,DK,Central Denmark Region,Aarhus,1933729.0,10.0,1997.0,Other Professional Services,Professional & Commercial Services,https://searcher.dk/
+116,e8e82741-5871-11ec-b633-39790144a985,Cushman & Wakefield Services Thailand Co. Ltd.,Cushman & Wakefield Services Thailand Co. Ltd.,Thailand,TH,Bangkok,Ratchathewi,,,,Real Estate,,
+117,1e999e70-93e5-11eb-91fb-73d498260b10,Dades,Dades A/S.,Denmark,DK,Capital Region Of Denmark,Kongens Lyngby,,,1937.0,Other Durable Products,Real Estate Services,https://dades.dk/
+118,04d0828f-a79c-11ef-8415-1543cbb5e7b9,Revive by Notabene,,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://www.revivebynotabene.dk/
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Daily Jurr'at,,,,,,,,,,,
+120,070edae0-93e5-11eb-b4a6-27899be4e45d,Dansk Kredit Råd,,Denmark,DK,Region Zealand,Køge,2514085.0,15.0,,Non Profit,Consumer Finance,https://dk-r.dk/
+121,1f89f1e3-93e5-11eb-b5f6-816dd10ac7b0,Dansk Sundhedssikring,Dansk Sundhedssikring A/S.,Denmark,DK,Capital Region Of Denmark,Herlev,7100000.0,210.0,2012.0,Finance & Insurance,Managed Care,http://ds-sundhed.dk/
+122,c6eb5470-93e4-11eb-9937-4fab995bf8ff,Danske Bank,Danske Bank A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,7549255680.0,20021.0,1871.0,Finance & Insurance,Commercial Banks,https://danskebank.com/
+123,fdd5fee0-9bc7-11ec-abde-87ab8965fdf7,Dantec Nordics,DANTEC Nordics ApS.,Denmark,DK,Region Of Southern Denmark,Aabenraa Municipality,110845936.0,75.0,2018.0,Electronics & Appliances,Multiline and Specialty Retailers & Distributors,https://www.dantec-nordics.dk/
+124,08e9dc7d-93e5-11eb-919a-b3f9a5ad205c,DEAS Group,DEAS A/S.,Denmark,DK,Capital Region Of Denmark,Frederiksberg,295469632.0,850.0,1989.0,Real Estate,,https://deas.dk/da
+125,2840eeb8-93e5-11eb-8859-29e7c34dee35,Deko Style,,Denmark,DK,Central Denmark Region,Aarhus Municipality,2833310.0,20.0,2001.0,Advertising & Marketing,Advertising & Marketing,https://dekostyle.dk/
+126,8647efa3-93e4-11eb-90d2-e3355a7e800b,Delfi Technologies,Delfi Technologies Ltd. | Skylabel - Delfi technologies A/S.,Denmark,DK,Region Zealand,Køge,16500000.0,170.0,1988.0,IT&C Services,Software & IT Services,https://www.delfi.com/en/
+127,beddde1c-93e4-11eb-8859-29e7c34dee35,Dell,Dell Inc.,Norway,NO,Oslo,Oslo,,,,,,http://www.dell.no/?opi=79508299&sa=U&ved=0ahUKEwiSkpfC2KmMAxXBTDABHaXIFoIQ61gIFCgQ&usg=AOvVaw0kwchOCGTWXjKnv_NDR-y3
+128,19b0d795-59c6-11ed-befb-0d84f255ed04,Dell,,Thailand,TH,Bangkok,Sathon,,,,,,
+129,db126bb1-6d0e-11ec-bd4d-65aaf75c66b8,DELL Repairs,,Ireland,IE,Leinster,Dublin 7,900081.0,4.0,,Other Professional Services,Professional & Commercial Services,https://www.dellrepairs.ie/
+130,b69603af-1aff-11ec-bc98-195cbdc2446a,Deloitte Norge,,Norway,NO,Oslo,Oslo,,,,Finance & Insurance,,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6
+131,b69603af-1aff-11ec-bc98-195cbdc2446a,Deloitte Norge,,Norway,NO,Oslo,Oslo,,,,Finance & Insurance,,http://www.deloitte.no/?opi=79508299&sa=U&ved=0ahUKEwiFwZ3V1quMAxValokEHbfFE-sQ61gIFCgQ&usg=AOvVaw1mrNGUeUDJuiYxHwgqhTP6
+132,4d8576a2-14c1-11ee-98f2-2b13cee7793d,Deloitte Consulting Malaysia Sdn Bhd.,Deloitte Consulting Malaysia Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Other Professional Services,,
+133,b14fddd0-93e4-11eb-b89f-536884b3e7dd,Revisto Statsautoriseret Revisionspartnerselskab,Revisto I/S.,Denmark,DK,Central Denmark Region,Horsens,5493573.0,40.0,,Finance & Insurance,Professional & Commercial Services,https://revisto.dk/
+134,0ede7fca-2dc6-11ec-b49b-63e83532064d,Aalborg Engineering A/S.,Aalborg Engineering A/S.,Denmark,DK,North Denmark Region,Aalborg,,,,Architecture & Engineering Services,,
+135,169a31db-93e5-11eb-919a-b3f9a5ad205c,Eltek,Delta Electronics usa Inc,Norway,NO,Viken,Drammen,389697728.0,2378.0,1971.0,Electronics & Appliances,Software & IT Services,https://www.eltek.com/
+136,70923a3d-93e4-11eb-a33a-a3dfba582839,Delta Electronics,Delta Electronics Inc. | Delta Electronics Int'l Singapore Pte. Ltd.,Singapore,SG,Central,Singapore,23570136.0,59.0,2010.0,Electronics & Appliances,Electric Utilities & Power Generators,https://www.delta-singapore.com/en-SG/index
+137,2d504056-93e5-11eb-9937-4fab995bf8ff,ThaiExpress,,Singapore,SG,Central,Singapore,7000000.0,54.0,2002.0,Accommodation & Food Services,Restaurants,https://www.thaiexpress.com.sg/
+138,9d28dea3-93e4-11eb-86dd-ffbd1b53140e,DIAL ZERO,,Pakistan,PK,Sindh,Karachi Division,91829.0,19.0,2020.0,Advertising & Marketing,Software & IT Services,https://dialzero.pk/
+139,748dd1da-93e4-11eb-8e19-198fb02d6f96,NemID,Nets DanID A/S.,Denmark,DK,,,,,,IT&C Services,Software & IT Services,https://www.mitid.dk/
+140,c2b35013-93e4-11eb-b997-8dd98d09cf25,DiGi Telecommunications,Digi Telecommunications Sdn. Bhd.,Malaysia,MY,Selangor,Petaling Jaya,1396809088.0,1473.0,1990.0,IT&C Services,,https://www.celcomdigi.com/
+141,c2b35013-93e4-11eb-b997-8dd98d09cf25,DiGi Telecommunications,Digi Telecommunications Sdn. Bhd.,Malaysia,MY,Selangor,Petaling Jaya,1396809088.0,1473.0,1990.0,IT&C Services,,https://www.celcomdigi.com/
+142,2015b020-725d-11ec-8323-2bafca655da8,ANDERS LASSEN FONDEN,,Denmark,DK,North Denmark Region,Aalborg Municipality,,,,Non Profit,Leisure Facilities,https://www.anderslassenfonden.dk/
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA Oy.,DNA Oy.,Finland,FI,Southwest Finland,Turku,,,,IT&C Services,,
+144,713a067e-a5ad-11ef-99b4-e30dab6798c3,DNB BANK,,Norway,NO,Oslo,Oslo,,,,Finance & Insurance,Commercial Banks,https://dnbconnect.org/
+145,eaf12dc2-0cae-11ec-b624-5bdca4509f94,Assurance Partner,Assurance Partner A/S.,Denmark,DK,Capital Region Of Denmark,Kongens Lyngby,4195557.0,20.0,,Finance & Insurance,Insurance,https://www.northrisk.dk/
+146,5ed6dfd6-205c-11ee-8d01-ef4abbbd90e4,Dtac-trinet,,Thailand,TH,Chiang Mai Province,Saraphi District,,,,,,
+147,18777d50-93e5-11eb-be3a-7f925cb94351,Dubex,Dubex A/S.,Denmark,DK,Capital Region Of Denmark,Gladsaxe Municipality,12000000.0,70.0,1997.0,IT&C Services,Software & IT Services,http://www.dubex.dk/
+148,267c3447-93e5-11eb-86dd-ffbd1b53140e,Fjordkraft,Fjordkraft Holding ASA.,Norway,NO,Vestland,Bergen,459184288.0,195.0,1996.0,Resources & Energy,Electric Utilities & Power Generators,http://fjordkraft.no/
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,DXC Technology Sverige AB.,DXC Technology Sverige AB.,Sweden,SE,Västra Götaland County,Gothenburg,,,,,,
+150,073b0382-15c6-11ee-96e4-cb8237f15b21,Munchworld Marketing Sdn. Bhd. Johor,,Malaysia,MY,Johor,Ulu Tiram,,,,,,
+151,6cc2cc31-a630-11ed-9a26-bbb8582c677b,Eastcompeace Singapore Pte Ltd.,Eastcompeace Singapore Pte Ltd.,Singapore,SG,Central,Singapore,,,,IT&C Services,,
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Eastcompeace Smart Card Bangladesh Limited.,Eastcompeace Smart Card Bangladesh Limited.,Bangladesh,BD,Dhaka Division,Dhaka,,,,IT&C Services,,
+153,d3e5dfe4-123f-11ec-b7b8-257f68cd18d4,Eastcompeace,Eastcompeace Technology Co. Ltd.,China,CN,Guangdong Province,Zhuhai,218800000.0,200.0,1998.0,Finance & Insurance,Software & IT Services,https://www.eastcompeace.com/
+154,2a2e9a98-1200-11ec-b96f-e38fcfed8310,eCapacity,eCapacity A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,5100000.0,3.0,2007.0,Advertising & Marketing,Software & IT Services,https://ecapacity.com/
+155,2b50edd1-93e5-11eb-a746-fdabd18be9c6,ECI Media Management,ECI Media Management AB.,Sweden,SE,Stockholm County,Stockholm,4900000.0,82.0,2001.0,Advertising & Marketing,Advertising & Marketing,https://ecimediamanagement.com/
+156,2b50edd1-93e5-11eb-a746-fdabd18be9c6,ECI Media Management,ECI Media Management AB.,Sweden,SE,Stockholm County,Stockholm,4900000.0,82.0,2001.0,Advertising & Marketing,Advertising & Marketing,https://ecimediamanagement.com/
+157,2ec1c3c4-bc87-11ec-a11f-5bb3d2519761,edotco Bangladesh Co. Ltd.,edotco Bangladesh Co. Ltd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,30179042.0,270.0,2012.0,IT&C Services,,
+158,00585f10-03dd-11ec-88c1-8d1ee037d45b,Aquamatch,Aquamatch Pakistan Private Limited,Pakistan,PK,Punjab,Lahore,446596.0,75.0,2015.0,Resources & Energy,Water Utilities & Services,https://aquamatch.pk/
+159,386ddce7-93e5-11eb-b4a6-27899be4e45d,Egencia,Egencia Denmark A/S.,Denmark,DK,Region Of Southern Denmark,Odense,,,,Other Consumer Services,Software & IT Services,https://www.egencia.dk/
+160,61aa4157-4588-11ed-9ac3-0bfc898c3189,Egencia,Egencia LLC.,,,,,,,,Other Consumer Services,Professional & Commercial Services,https://boksi3.site/
+161,06e4ced6-ff7f-11eb-84ab-359586b9329a,Egencia,,Norway,NO,Innlandet,Gjøvik,46104336.0,150.0,,Other Consumer Services,Software & IT Services,http://egencia.no/
+162,c48af6f3-953c-11eb-b95d-09752ee000df,Egencia Canada,Egencia Canada Corp.,New Zealand,NZ,Wellington,Wellington,,,,Other Consumer Services,Professional & Commercial Services,https://www.egencia.ca/en/
+163,c3be3d54-b6b6-11ef-b840-cd317407a6a9,eGeneration Limited,eGeneration Limited,,,,,,,,Other Professional Services,Health Care Delivery,https://coronavirus.pages.dev/
+164,a2262c10-f5c0-11ed-bf28-41d352466f20,Freetrailer trailerudlejning Elgiganten Glostrup,,Denmark,DK,Capital Region Of Denmark,Glostrup,,,,Automotive,,
+165,f2d78814-93e4-11eb-8859-29e7c34dee35,Eltel Networks,Eltel Networks Corporation | Eltel AB.,Denmark,DK,Capital Region Of Denmark,Herlev,2200000.0,5000.0,2001.0,IT&C Services,Electric Utilities & Power Generators,https://www.eltelgroup.com/
+166,ab422f07-93e4-11eb-86dd-ffbd1b53140e,Energy Cool,,Denmark,DK,Region Of Southern Denmark,Fredericia Municipality,17263164.0,75.0,2009.0,Resources & Energy,Electrical & Electronic Equipment,https://energy-cool.com/
+167,0a8c7fb4-1403-11ec-9819-3df44af6372a,Spółka OLOGROUP Spółka z ograniczoną odpowiedzialnością,,Poland,PL,Holy Cross Voivodeship,Kielce,4078577.0,75.0,,Construction,Engineering & Construction Services,https://ologroup.pl/
+168,b6dc75a2-93e4-11eb-aa66-9b8d95e2171b,Norlys,Norlys Energi A/S,Denmark,DK,Central Denmark Region,Silkeborg,4000000.0,2500.0,2019.0,IT&C Services,Telecommunication Services,https://norlys.dk/
+169,dd63e4c0-93e4-11eb-8ad6-7326edce8d21,Campaigns,,Denmark,DK,Capital Region Of Denmark,Copenhagen,211727.0,1.0,2010.0,Advertising & Marketing,Software & IT Services,http://www.campaigns.dk/
+170,03f8d710-588f-11ec-a973-1debdfc94bd7,Ericsson Telecommunications Sdn. Bhd.,Ericsson Telecommunications Sdn. Bhd.,Malaysia,MY,Selangor,Shah Alam,,,,IT&C Services,,
+171,d2916f52-250a-11ec-8093-db09f614eb78,Ericsson Thailand Ltd.,Ericsson Thailand Ltd.,Thailand,TH,Bangkok,Chatuchak,,,,IT&C Services,,
+172,334cae31-0bcc-11ec-a040-cbff7458f722,Ericsson Väst Seniorförening,Ericsson AB.,Sweden,SE,,,981794.0,6.0,1999.0,Non Profit,Electric Utilities & Power Generators,https://ericssonvastsen.se/
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson AS,,Norway,NO,,Oslo,,,,Architecture & Engineering Services,Engineering & Construction Services,https://epignosis.no/
+174,fc16bb84-726e-11ec-b6f0-47a47d649a3b,Sony Ericsson,,Denmark,DK,,,57397932.0,150.0,,IT&C Services,Chemicals,https://sonyericsson.dk/
+175,daa8f764-0040-11ef-9687-91451869a05d,Ernst Engineering Pte. Ltd.,Ernst Engineering Pte. Ltd.,Singapore,SG,Southwest,,,,,Construction,,
+176,f977dde5-f3a1-11ed-b737-7b786e8fdbf4,Ey Grønland Godkendt Revisionsanpartsselskab,,Denmark,DK,Capital Region Of Denmark,Frederiksberg,,,,Finance & Insurance,,
+177,33a00afc-f81d-11ed-8ed0-97e170af3960,Batteriindsamling ERP Denmark ApS.,Batteriindsamling ERP Denmark ApS.,Denmark,DK,Region Of Southern Denmark,Nyborg,,,,Architecture & Engineering Services,,http://erp-recycling.dk/?opi=79508299&sa=U&ved=0ahUKEwjzgJOUh7GMAxWCKlkFHZLZL3QQ61gIEigP&usg=AOvVaw0PPZ0r6uBXnllr0sJE3Krs
+178,e87217f9-93e4-11eb-8ad6-7326edce8d21,Estel Technologies,Estel Technologies Pvt. Ltd.,India,IN,Haryana,Gurugram,4300000.0,180.0,1997.0,Finance & Insurance,Software & IT Services,https://esteltelecom.com/
+179,328c2081-25e7-11ec-a051-939956ac8241,Eutelsat Asia,Eutelsat Sa.,France,FR,Ile-de-France,Paris,2200000.0,36.0,1977.0,IT&C Services,,
+180,8674cc02-93e4-11eb-be5a-4f810ab55f2e,Ework Group,Ework Group AB.,Sweden,SE,Stockholm County,Stockholm,1700000000.0,570.0,2000.0,Other Professional Services,Professional & Commercial Services,https://www.eworkgroup.com/
+181,c2b5c128-93e4-11eb-8ad6-7326edce8d21,NORDIC MEDICAL SOLUTIONS,Nordic Medical Solutions ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen,15595274.0,20.0,2012.0,Other Capital Goods,Medical Equipment & Supplies,https://www.nordicms.com/
+182,ef614d16-93e4-11eb-aa66-9b8d95e2171b,Universal Music,Universal Music Group N.V.,Norway,NO,Oslo,Oslo,1330505.0,1.0,,Publishers & Media Companies,Media & Entertainment,https://universalmusic.no/
+183,3034bc10-74ad-11ed-9364-a958028bfff1,EXFO Finland Oy.,EXFO Finland Oy.,Finland,FI,North Ostrobothnia,Oulu,,,,IT&C Services,,
+184,240ec88e-0d0c-11ec-ba39-9dfb291dc0cf,Air Cargo Logistics,,Norway,NO,Viken,Ullensaker,19000000.0,75.0,2007.0,Transport & Warehousing,Rail Transportation,http://aclogistics.no/
+185,14903104-93e5-11eb-90d2-e3355a7e800b,Al Huda Publications,Al Huda Publications pvt. Ltd. | Al-Huda Publications Pvt. Limited,Pakistan,PK,Islamabad Capital Territory,Islamabad,585000.0,11.0,2015.0,Publishers & Media Companies,,http://alhudapublications.org/
+186,5890bff3-112b-11ec-b06c-d1fadf322ad0,EXTENDA RETAIL,Re-Vision BV.,Norway,NO,Vestfold Og Telemark,Tønsberg,,1.0,1982.0,,,https://44749.org/
+187,631c5ae7-e7f1-11ec-ad32-8d2a499c20f7,F5 Networks Inc.,F5 Networks Inc.,United Kingdom,GB,,,,1.0,,,,http://couponannie.co.uk/
+188,6de3c7f3-0472-11ec-8154-fd26fdffca6b,Facebook Training Ireland,,Ireland,IE,,,352531.0,1.0,,Advertising & Marketing,,https://facebooktraining.ie/
+189,e9312230-93e4-11eb-86dd-ffbd1b53140e,Falck,Falck A/S. | Falck Rettungsdienst Nord GmbH | Falck Fire Services DE GmbH | Falck emergency services company,Denmark,DK,Capital Region Of Denmark,Copenhagen,9400000.0,26250.0,1906.0,Health Care & Social Assistance,Health Care Delivery,https://www.falck.com/
+190,4bd4a421-725b-11ec-a37c-11c248193b5d,Mall of Malaysia,Mall of Malaysia Sdn. Bhd.,Malaysia,MY,Selangor,Petaling Jaya,3848596.0,150.0,,Other Durable Products,Multiline and Specialty Retailers & Distributors,https://mallofmalaysia.com.my/
+191,ff5c55c1-93e4-11eb-aa66-9b8d95e2171b,Favro,FAVRO AB.,Sweden,SE,Uppsala County,Uppsala,1900000.0,37.0,2016.0,IT&C Services,Software & IT Services,https://www.favro.com/
+192,0ebd415c-93e5-11eb-919a-b3f9a5ad205c,Next New Wave,nnw films sdn bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,2015.0,Publishers & Media Companies,Media & Entertainment,https://www.nextnewwave.com.my/
+193,aade3d11-93e4-11eb-919a-b3f9a5ad205c,FIBRECOMM,Fibrecomm Network M Sdn. Bhd. | Fibre Communication Network M Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,9300650.0,110.0,1992.0,IT&C Services,Telecommunication Services,https://fibrecomm.net.my/
+194,149e2513-aac5-11ef-8555-0dd834e09bbc,Dansk Iso Teknik,Dansk Iso Teknik ApS.,Denmark,DK,Capital Region Of Denmark,Ballerup,2426824.0,14.0,,Construction,Engineering & Construction Services,https://isoteknik.dk/
+195,44240fe3-93e5-11eb-919a-b3f9a5ad205c,Form Danmark,Form Danmark ApS.,Denmark,DK,Central Denmark Region,Odder,15145737.0,75.0,,Architecture & Engineering Services,,http://www.formdanmark.dk/
+196,33003ea0-93e5-11eb-b5f6-816dd10ac7b0,Dalen legesenter,,Norway,NO,Vestland,Bergen,,,,Health Care & Social Assistance,Health Care Delivery,https://dalenlegesenter.no/
+197,5b67817a-1b01-11ec-adc9-5d86e79c45f3,Gartner Advisory S Pte Ltd.,Gartner Advisory S Pte Ltd.,Singapore,SG,Central,Singapore,,,,,,
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,Gartner Norge,,Norway,NO,Oslo,Oslo,,,,Health Care & Social Assistance,,
+199,0165a523-f0b3-11ee-849e-f5d408dc71cd,PAF SECURITISATION NO.,PAF Securitisation No. 1 Plc.,United Kingdom,GB,England,London,49349144.0,75.0,,Finance & Insurance,Insurance,https://pafsecuritisationno1plc.com/
+200,ce7a4c04-93e4-11eb-90d2-e3355a7e800b,Genex Infosys,Genex Infosys PLC.,Bangladesh,BD,Dhaka Division,Dhaka,5911386.0,2400.0,2012.0,Advertising & Marketing,Professional & Commercial Services,https://genexinfosys.com/
+201,fce143ad-93e4-11eb-86dd-ffbd1b53140e,HarPal Geo,,Pakistan,PK,Sindh,Karachi,377974.0,75.0,2002.0,Publishers & Media Companies,Media & Entertainment,https://harpalgeo.tv/
+202,404994d0-93e5-11eb-8474-3bbe2d07207d,Gintel Norway,,Norway,NO,Trøndelag,Trondheim,23300000.0,52.0,2001.0,IT&C Services,Telecommunication Services,https://www.gintel.com/
+203,2850cd3a-93e5-11eb-8859-29e7c34dee35,GlobalConnect,,,,,,,,,IT&C Services,Telecommunication Services,https://globalconnect.support/
+204,fe92eb43-93e4-11eb-9937-4fab995bf8ff,Glory Fashions,Glory Fashion Ltd.,Bangladesh,BD,Dhaka Division,Dhaka,496709.0,75.0,,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://gloryfashions.com/
+205,eb6bf704-93e4-11eb-97db-273ba5953680,Goecker since 1862,Goecker A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,225000.0,24.0,1862.0,Electronics & Appliances,Multiline and Specialty Retailers & Distributors,https://goecker.dk/
+206,b8ca3bec-93e4-11eb-9937-4fab995bf8ff,GoGift,GoGift A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,7000000.0,120.0,2003.0,Other Durable Products,Alcoholic Beverages,https://www.global.gogift.com/
+207,169c7bc4-93e5-11eb-919a-b3f9a5ad205c,eLoan Canada,Google Asia Pacific Pte. Ltd.,,,,,,3.0,,Finance & Insurance,Consumer Finance,https://eloancanada.com/
+208,9b99eb38-8535-11ed-b736-cdd032151ab1,Bon Plan Sur Mesure,Google Cloud EMEA Limited,France,FR,Ile-de-France,Saint-Brice-sous-Forêt,,,,IT&C Services,Telecommunication Services,https://www.bonplansurmesure.com/
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce Limited,Google Commerce Limited,Ireland,IE,Leinster,Dublin 4,,,,IT&C Services,Software & IT Services,https://lespotnoir.com/
+210,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce Limited,Google Commerce Limited,Ireland,IE,Leinster,Dublin 4,,,,IT&C Services,Software & IT Services,https://lespotnoir.com/
+211,0e257043-dc98-11ef-b8b0-a1dc081da81f,Grameenphone Centre,,Bangladesh,BD,Dhaka Division,Dhaka,,,,Other Professional Services,,
+212,09dabf8f-02f4-11ed-97ce-2bd0fada5731,Jysk Auto ApS.,Jysk Auto ApS.,Denmark,DK,Central Denmark Region,Aarhus Municipality,18099732.0,30.0,,Automotive,,https://jyskauto.dk/
+213,ba0505da-93e4-11eb-97db-273ba5953680,GREEN PACKET,,Malaysia,MY,Selangor,Petaling Jaya,135500000.0,800.0,2000.0,IT&C Services,Electric Utilities & Power Generators,https://www.greenpacket.com/
+214,205a2882-092a-11ee-b84c-9b2922821bc8,GreenMind,,Denmark,DK,Capital Region Of Denmark,Rødovre Municipality,,,,Other Professional Services,,
+215,fd557720-5982-11ec-a195-fb7c9849e658,Backpage PR,GREY Advertising Bangladesh Ltd.,Bangladesh,BD,Dhaka Division,Dhaka,48755.0,6.0,2005.0,Advertising & Marketing,Professional & Commercial Services,https://backpagepr.com/
+216,b1eae542-93e4-11eb-aa66-9b8d95e2171b,GSMA Training,GSM Association,United Kingdom,GB,England,London,10606294.0,75.0,,Education,Professional & Commercial Services,https://www.gsmatraining.com/
+217,4214b8bf-1d88-11ef-a07a-c90c75a354c8,Harbin Xinju New Energy Co. Ltd.,Harbin Xinju New Energy Co. Ltd.,China,CN,Heilongjiang,Harbin,,,,,,
+218,a40484c0-0ae9-11ec-8b96-2f712d78ea00,Sikring Vest A/S.,Sikring Vest A/S.,Denmark,DK,,,1038391.0,3.0,,Transport & Warehousing,,http://sikringvest-as.dk/Sikring_Vest_A_S/Sikring_Vest_A_S.html
+219,8dbea451-93e4-11eb-a33a-a3dfba582839,HELP Försäkring,,Sweden,SE,Stockholm County,Stockholm,4992472.0,40.0,2012.0,Finance & Insurance,Professional & Commercial Services,https://helpforsakring.se/
+220,a90e10f4-93e4-11eb-be5a-4f810ab55f2e,HELP Forsikring,,Norway,NO,Oslo,Oslo,24600000.0,250.0,2005.0,Finance & Insurance,Professional & Commercial Services,https://help.no/
+221,bb79f296-93e4-11eb-86dd-ffbd1b53140e,HELP Forsikring,,Denmark,DK,Capital Region Of Denmark,Copenhagen,895237.0,6.0,2015.0,Finance & Insurance,Professional & Commercial Services,https://helpforsikring.dk/
+222,8de2ce1b-93e4-11eb-a33a-a3dfba582839,Herm,Herm. Rasmussen A/S.,Denmark,DK,Central Denmark Region,Silkeborg,6757578.0,50.0,,Construction,Real Estate Services,http://www.herm.dk/
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,HEST Agentur,,Norway,NO,Oslo,Oslo,810583.0,3.0,2018.0,Other Consumer Services,Multiline and Specialty Retailers & Distributors,https://hestagentur.no/
+224,6cf9d142-93e4-11eb-8859-29e7c34dee35,HETEK,HETEK A/S.,Denmark,DK,Region Of Southern Denmark,Vejle,10603541.0,50.0,,Construction,,https://hetek.dk/
+225,1581c8a4-b0e0-11ef-9ae6-f3a9013945ac,Hewlett-Packard Multimedia Sdn Bhd.,Hewlett-Packard Multimedia Sdn Bhd.,Malaysia,MY,Selangor,Petaling Jaya,,,2016.0,Other Nondurable Products,,
+226,6ebe32b3-0c23-11ec-8987-675e36fc76ad,Miidear,,Thailand,TH,Bangkok,Bangkok,,,,Other Nondurable Products,Professional & Commercial Services,https://miidear.com/
+227,8f7652eb-4a17-11ee-9915-dbe586dac667,HPE Decoded,Hewlett Packard Enterprise Development LP.,Denmark,DK,,,,,,IT&C Services,Software & IT Services,http://hpedecoded.dk/
+228,f6bed478-93e4-11eb-a33a-a3dfba582839,Elbilforum,,Norway,NO,Viken,Bærum,1668501.0,6.0,1991.0,Non Profit,Electric Utilities & Power Generators,https://elbilforum.no/
+229,d3c03269-e0ca-11ee-af37-875b13c328d9,Hewlett Packard Depot Rd,,Singapore,SG,Central,Singapore,,,,,,
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,Hewlett-Packard Sverige AB.,Hewlett-Packard Sverige AB.,Sweden,SE,Skåne County,Malmo,,,,IT&C Services,,
+231,d778d926-93e4-11eb-be5a-4f810ab55f2e,High Touch Remodeling,,United States,US,California,Los Angeles,1932906.0,6.0,2002.0,Construction,Home Builders,https://hightouchremodeling.com/
+232,acbf3216-93e4-11eb-a746-fdabd18be9c6,Holdsport,,Denmark,DK,Central Denmark Region,Aarhus,139000.0,20.0,1973.0,"Arts, Entertainment & Recreation",Leisure Facilities,https://www.holdsport.dk/
+233,4d284b47-0afe-11ec-b45f-7fdf93e89edf,Hoppecke,HOPPECKE Batterien GmbH & Co.,Germany,DE,North Rhine-Westphalia,Brilon,21240352.0,90.0,1927.0,Other Nondurable Products,Fuel Cells & Industrial Batteries,https://www.hoppecke-history.de/
+234,2a330750-2155-11ef-bd4e-6b9db4992f2e,HP Thailand,,Thailand,TH,Bangkok,,,,,,,
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,HP Inc Denmark ApS.,HP Inc Denmark ApS.,Denmark,DK,Capital Region Of Denmark,Lillerød,,,,,,
+236,6fb6df80-918f-11ed-9198-5108792e5842,HP Norge,,Norway,NO,Viken,Bærum,,75.0,,,Hardware,https://hp-norge.no/
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,HP PPS Sales Sdn Bhd.,HP PPS Sales Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Publishers & Media Companies,Professional & Commercial Services,https://hp-aipcvideocontest.com/
+238,28cb5283-f474-11ec-9207-43fec1f49158,GG Playfest,HP PPS SINGAPORE SALES PTE. LTD.,Singapore,SG,Central,Singapore,,,,"Arts, Entertainment & Recreation",Leisure Facilities,https://ggplayfest.com/
+239,81727301-2350-11ec-be87-a3acfe0d4893,Huawei Enterprise,Huawei International Pte Ltd.,Singapore,SG,Southeast,,,,,IT&C Services,,
+240,b51941d7-93e4-11eb-a746-fdabd18be9c6,Shahidul Islam Sarker,Huawei Technologies Bangladesh Ltd.,Bangladesh,BD,Dhaka Division,Dhaka,7505.0,1.0,,Non Profit,Engineering & Construction Services,http://www.shahidulsarker.com/
+241,47d1fe26-4a46-11ef-a31d-a303c6a91d6a,Huawei Denmark,,Denmark,DK,Capital Region Of Denmark,Copenhagen,3379963.0,15.0,1987.0,IT&C Services,,
+242,3e229adb-f5be-11ed-9659-9b00f4ea9e93,Huawei Technologies Malaysia Sdn Bhd TRX,,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,,,
+243,98a3b367-2d1d-11ed-bff5-21b6c2658068,Huawei Technologies Thailand Co Ltd.,Huawei Technologies Thailand Co Ltd.,Thailand,TH,Bangkok,,,,,Construction,Engineering & Construction Services,https://www.transformex.org/
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Huawei Technologies Norway AS,,Norway,NO,Viken,Bærum,,,,,,
+245,ca2f9ba8-8aa4-11ec-9066-739984ffef59,HUAWEI Pakistan,,Pakistan,PK,Islamabad Capital Territory,Islamabad,17892092.0,1200.0,,IT&C Services,,
+246,d15378e1-04d0-11ec-a6a3-7d13d87fe979,Future of Wireless,Huawei Technologies Sweden AB.,Sweden,SE,Stockholm County,Stockholms Kommun,23713576.0,75.0,,IT&C Services,Telecommunication Services,https://futureofwireless.eu/
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,Huber Suhner A/S.,Huber Suhner A/S.,Denmark,DK,Capital Region Of Denmark,Værløse,,,,Electronics & Appliances,,
+248,0ac24602-93e5-11eb-8474-3bbe2d07207d,HUBER SUHNER Sales Partners,HUBER SUHNER GmbH | Huber Suhner M Sdn Bhd. | Huber & Suhner Hong Kong Limited | HUBER SUHNER Astrolab Inc.,Switzerland,CH,Appenzell Ausserrhoden,Herisau,1000000000.0,4500.0,1969.0,Electronics & Appliances,Industrial Machinery & Goods,http://www.hubersuhner.com/
+249,a4c60a21-72d7-11ec-b85d-b984c6bb12f3,HUBER SUHNER,,,,,,,1.0,,Blogs & Publications,Media & Entertainment,https://hubersuhner.blogspot.com/
+250,6b8bfbae-047a-11ec-a68c-2730dc96ef15,HUM Style Awards,HUM Network Limited,,,,,,,,Publishers & Media Companies,Multiline and Specialty Retailers & Distributors,https://www.humstyleawards.com/
+251,14161f0e-93e5-11eb-97db-273ba5953680,Human Edge,,Switzerland,CH,Basel-City,Basel,6658730.0,29.0,2016.0,Other Professional Services,Professional & Commercial Services,http://human-edge.com/
+252,f035adb0-d13e-11ec-a4fa-c3f40e4b757a,Hydro Rein,,Norway,NO,Oslo,Oslo,159607200.0,105.0,2021.0,Resources & Energy,Solar Technology & Project Developers,https://www.hydrorein.com/
+253,8ad09611-fc12-11ed-a82c-670b3ac56cdb,Klubben,Klubben C O IBM Danmark ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen,3456105.0,10.0,,"Arts, Entertainment & Recreation",Leisure Facilities,https://klubben-danmark.dk/
+254,33e93227-8a9a-11ec-8f0a-eb02b2415b08,IDEMIA France SAS.,IDEMIA France SAS.,France,FR,Ile-de-France,Courbevoie,2600000000.0,,2007.0,Other Professional Services,,https://www.bioscrypt.com/
+255,03831c14-93e5-11eb-a33a-a3dfba582839,Oberthur Technologies,Paris Oberthur Technologies S.A.,France,FR,Ile-de-France,Paris,3218017536.0,14000.0,1984.0,Finance & Insurance,,https://www.oberthur.com/
+256,16d6c5a0-93e5-11eb-90d2-e3355a7e800b,Ikano Bank,,Denmark,DK,Capital Region Of Denmark,Glostrup,3894770.0,14.0,1978.0,Finance & Insurance,Commercial Banks,https://ikanobank.dk/
+257,d17fb890-2507-11ec-af5c-e506962f8a3b,Bangla Trac Miaki Vas Limited,Bangla Trac Miaki Vas Limited,Bangladesh,BD,Dhaka Division,Dhaka,,,,,,
+258,25bf4898-a69a-11ec-9108-57519746fb39,IMI Mobile VAS Ltd FZE,IMImobile Canada Inc. | IMImobile Europe Ltd.,United Kingdom,GB,England,London,212100000.0,,1999.0,IT&C Services,,
+259,01004641-1dd8-11ef-9268-316fc8e174dd,Private Helipad Ali Villa,,Pakistan,PK,Sindh,Karachi,,,,,,
+260,f0273522-93e4-11eb-a33a-a3dfba582839,INFINERA,Infinera Corporation,United States,US,California,San Jose,1356000000.0,3200.0,2000.0,IT&C Services,Medical Equipment & Supplies,https://www.infinera.com/
+261,fa89bf14-93e4-11eb-9937-4fab995bf8ff,INFOMEDIA,Infomedia Sweden AB. | Infomedia Finland Oy.,Denmark,DK,Capital Region Of Denmark,Copenhagen,16000000.0,200.0,2002.0,Advertising & Marketing,Advertising & Marketing,https://infomedia.dk/
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,Infosys Limited,Infosys Limited,India,IN,Karnataka,Bengaluru,,,,IT&C Services,,
+263,23bb110e-49a8-11ef-b831-79711486170a,INGRAM MICRO NORDIC LOGISTICS AB.,INGRAM MICRO NORDIC LOGISTICS AB.,Sweden,SE,Västra Götaland County,Borås,,3.0,,,,
+264,105b5543-69de-11ec-adcf-3f0b13c02884,Carmadrink267,,Denmark,DK,Capital Region Of Denmark,Ballerup Municipality,16458196.0,15.0,,Food & Beverages,Alcoholic Beverages,https://carmadrink.dk/
+265,b99023f2-93e4-11eb-a33a-a3dfba582839,InsiderSecurity,Insider Security Pte Ltd.,Singapore,SG,Southwest,,8417258.0,32.0,2015.0,IT&C Services,Software & IT Services,https://insidersecurity.co/
+266,99015501-93e4-11eb-b4a6-27899be4e45d,Integrity Risk International,Integrity Risk International LLC.,United States,US,Virginia,Reston,10685824.0,42.0,1990.0,Other Professional Services,Professional & Commercial Services,https://www.integrityriskintl.com/
+267,886a8187-93e4-11eb-b4a6-27899be4e45d,Intouch Insight,Intouch Insight Inc.,Canada,CA,Ontario,Ottawa,15500000.0,180.0,1992.0,IT&C Services,Professional & Commercial Services,https://www.intouchinsight.com/
+268,04fe7362-01b4-11ef-ade1-91904611b689,FINANCE SKY,,Switzerland,CH,Zug,Baar,1033708.0,5.0,2014.0,Finance & Insurance,Insurance,https://www.financesky.ch/
+269,0cdd9ee4-04c2-11ec-88e6-abf0591e0a83,Advis,,Sweden,SE,,,3571306.0,30.0,1992.0,Advertising & Marketing,Advertising & Marketing,https://advis.se/
+270,9b3460e0-4e9a-11ef-9005-197c1f23de9c,IPG Mediabrands APAC,,Singapore,SG,Central,Singapore,4481691.0,20.0,2007.0,Advertising & Marketing,,
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Ipsos Sdn Bhd.,Ipsos Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Advertising & Marketing,,
+272,52dd79a7-64a6-11ee-8ba4-c1d00e9cebfd,ISS Facility Services Ltd.,ISS Facility Services Ltd. | ISS Facility Services Srl.,Denmark,DK,Capital Region Of Denmark,Gladsaxe Municipality,,,1923.0,Other Professional Services,Professional & Commercial Services,https://frontend-issworld-demo.vercel.app/en
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Facility Services AB.,ISS Facility Services AB.,Sweden,SE,Kalmar County,Västervik,,,,Other Professional Services,,
+274,b6933ece-a507-11ec-aceb-79f5b854cd8b,ISS Facility Services Norge,,Norway,NO,Oslo,Oslo,,550.0,1901.0,,,
+275,c2b80b00-93e4-11eb-a33a-a3dfba582839,ISS,ISS A/S. | ISS GLOBAL A/S. | ISS Facility Services S.A. | ISS Facility Services Holding GmbH | ISS Facility Services India Private Limited | ISS Facility Services Inc. | ISS Facility Services Limited,Denmark,DK,Capital Region Of Denmark,Søborg,10049793024.0,378946.0,1924.0,Other Professional Services,Professional & Commercial Services,http://www.au.issworld.com/
+276,6d50f1e1-93e4-11eb-b4a6-27899be4e45d,Itectra,Itectra A/S.,Denmark,DK,North Denmark Region,Aalborg,2697310.0,12.0,2008.0,IT&C Services,Telecommunication Services,https://itectra.com/
+277,aceeb54f-027f-11ec-adbd-5ff720d6d289,Jack of Digital,Jack of Digital Pvt Ltd.,Pakistan,PK,Sindh,Saddar Town,1000000.0,38.0,2020.0,Advertising & Marketing,Advertising & Marketing,https://jackofdigital.com/
+278,7943c0b1-9bfc-11ec-8253-a78d4af1afc1,IFACT,IFACT A/S.,Denmark,DK,Region Of Southern Denmark,Vejle,1650458.0,9.0,2020.0,IT&C Services,,https://ifact.dk/
+279,7f176bc0-93e4-11eb-a746-fdabd18be9c6,Jastel,JasTel Network Co. Ltd. | Justel Network Company Limited,Thailand,TH,Nonthaburi Province,Nonthaburi City Municipality,,,2006.0,IT&C Services,Telecommunication Services,https://www.jastel.co.th/
+280,117f0e3f-9c88-11ef-8bab-03376d671938,JLL CORPORATE SOLUTIONS AB.,JLL CORPORATE SOLUTIONS AB.,Sweden,SE,Stockholm County,Stockholm,,,,,,
+281,95040fb3-93e4-11eb-9937-4fab995bf8ff,Jobindex,Jobindex A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,6598815.0,75.0,,Other Professional Services,,https://jobindex.tv/
+282,04f6a945-93e5-11eb-8474-3bbe2d07207d,International Tax Management,International Tax Management Pte Ltd.,Singapore,SG,Central,Singapore,154088.0,3.0,2011.0,Finance & Insurance,Professional & Commercial Services,https://itm.com.sg/
+283,3029aeeb-1b04-11ec-be44-b33b64e33ebc,Johnson Controls Denmark ApS Head office,,Denmark,DK,Central Denmark Region,Aarhus,,,,Construction,,
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,Jones Lang Lasalle Property Consultants Pte. Ltd.,Jones Lang Lasalle Property Consultants Pte. Ltd.,Singapore,SG,Central,Singapore,,,,Real Estate,,
+285,550c60c0-12c3-11ec-a220-e361c6591423,Kahoot,,,,,,,,,IT&C Services,Software & IT Services,https://in-kahoot.com/
+286,51c74a02-6deb-11ec-96ad-05bd7998a1d5,CyberJuice,Cyberjuice Aps.,Denmark,DK,Capital Region Of Denmark,Copenhagen,1173202.0,5.0,2021.0,IT&C Services,Software & IT Services,https://cyberjuice.io/
+287,0013bee4-93e5-11eb-b89f-536884b3e7dd,Kantar,,Norway,NO,Oslo,Oslo,46283712.0,150.0,,Advertising & Marketing,Advertising & Marketing,https://kantar.no/
+288,39d1a58b-0586-11ec-ad6d-99fb67e6c4ba,KAON BROADBAND,KAON BROADBAND CO. LTD.,South Korea,KR,Gyeonggi,Seongnam-si,,,,IT&C Services,,http://www.kaonbroadband.com/home.do?lang=en
+289,da7ed6a5-fb93-11ee-aa89-23a399016fc1,Kerry Freight Pakistan PVT LTD.,Kerry Freight Pakistan PVT LTD.,Pakistan,PK,Sindh,Karachi,,,,Transport & Warehousing,,
+290,d06cf44c-93e4-11eb-a33a-a3dfba582839,Kerry Logistics,Kerry Logistics Network Limited,Hong Kong,HK,Hong Kong,Hong Kong Island,6834542080.0,42000.0,1981.0,Transport & Warehousing,Air Freight & Logistics,https://kerrylogistics.com/
+291,ea275f75-2672-11ee-aaf2-7fedf3310a03,Kinly AS avd Trondheim,,Norway,NO,Trøndelag,Trondheim,,,,IT&C Services,,
+292,b0eab351-93e4-11eb-be5a-4f810ab55f2e,Kinnarps,Kinnarps AB.,Denmark,DK,Capital Region Of Denmark,Brøndbyvester,46535336.0,150.0,1942.0,Home Products,Building Products & Furnishings,https://www.kinnarps.dk/
+293,db8d8f95-f669-11ed-a149-9b392686bc00,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,,Norway,NO,Oslo,Oslo,,,,Transport & Warehousing,,
+294,483419e2-93e5-11eb-8474-3bbe2d07207d,KM TELECOM,KM Telecom Danmark A/S. | KM Telecom Belgium BV.,Denmark,DK,Region Of Southern Denmark,Fredericia Municipality,57397932.0,150.0,,IT&C Services,Telecommunication Services,https://km-telecom.com/
+295,fce64cb2-93e4-11eb-86dd-ffbd1b53140e,KMD Kommunedata,KMD company | KMD A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,676482368.0,3000.0,1972.0,IT&C Services,Software & IT Services,https://www.kmd.dk/
+296,34512921-cd98-11ec-8506-afdec304713d,AUTOR,,Denmark,DK,Capital Region Of Denmark,Copenhagen,11562935.0,75.0,,Publishers & Media Companies,Media & Entertainment,https://www.autor.dk/
+297,02b3e530-93e5-11eb-8859-29e7c34dee35,Sartorvet,,Denmark,DK,Capital Region Of Denmark,Ishøj Municipality,,,,Food & Beverages,Food Retailers & Distributors,http://sartorvet.com/
+298,01e4df40-250a-11ec-849c-ffcf1f4730e5,Frederikssund Traktor- og Maskinservice,,Denmark,DK,Capital Region Of Denmark,Frederikssund,,,,Other Capital Goods,,
+299,2a5d0b59-1b05-11ec-8de4-3bb83042adac,Korn Ferry,,United Kingdom,GB,England,London,,,,Other Professional Services,,
+300,abd0131a-316e-11ef-b658-31fdbd9b69f5,KPMG - Knarvik,,Norway,NO,Vestland,Knarvik,,,,Finance & Insurance,,
+301,52c95451-18ff-11f0-b726-e3ae0b5c2c98,Kroll,Kroll OnTrack Inc. | Kroll LLC.,United Kingdom,GB,England,London,,,1932.0,Finance & Insurance,Professional & Commercial Services,https://krollescrow.com/en/services/agency-and-trustee-services/escrow-agent.html
+302,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Kromann Reumert,,Denmark,DK,Capital Region Of Denmark,Copenhagen,104010784.0,620.0,1994.0,Legal,Professional & Commercial Services,https://kromannreumert.com/
+303,179b9c40-93e5-11eb-97db-273ba5953680,Bording Cognito AS,,Norway,NO,Oslo,Oslo,5513354.0,17.0,2002.0,Advertising & Marketing,Advertising & Marketing,https://cognito.no/
+304,015d4838-69f4-11ec-90e1-2d5acd928949,FeetuniqueFollow,,Denmark,DK,Capital Region Of Denmark,Brøndby,,,2011.0,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://www.feetunique.se/
+305,fb1700e9-1b5d-11ec-9e2d-97948a03f19d,Leaseplan,,Sweden,SE,Stockholm County,Solna,9000000.0,1.0,1995.0,,,https://www.leaseplan.se/
+306,9b2222a0-9c13-11ec-a427-3716f54dd1e5,LEOCH Battery,Leoch Battery Pte Ltd.,Singapore,SG,Central,Singapore,20758510.0,55.0,1999.0,Other Nondurable Products,Fuel Cells & Industrial Batteries,http://leoch.sg/
+307,48f6a691-93e5-11eb-8859-29e7c34dee35,Locateai,LinkedIn Ireland Unlimited Company,United States,US,California,San Francisco,2000000.0,42.0,2014.0,Real Estate,Investment Banking & Brokerage,https://www.locate.ai/
+308,bd538962-a9a1-11ec-819d-93d1c51cb0f0,Linkedin Local Singapore,,Singapore,SG,Central,Singapore,,,2017.0,Accommodation & Food Services,,https://www.localx.org/
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,LM Ericsson Bangladesh Ltd.,LM Ericsson Bangladesh Ltd.,Bangladesh,BD,Chattogram Division,Chattogram,,,,,,
+310,11a3715a-93e5-11eb-b89f-536884b3e7dd,Techpartners,Techpartners ApS.,Denmark,DK,North Denmark Region,Aalborg,419032.0,2.0,,Other Professional Services,Professional & Commercial Services,https://www.techpartners.dk/
+311,3700913b-93e5-11eb-a746-fdabd18be9c6,Loyalty,Loyalty Nordic AB.,Norway,NO,Oslo,Oslo,17581424.0,180.0,1995.0,Advertising & Marketing,Professional & Commercial Services,https://www.loyalty.no/
+312,b43ac8b9-93e4-11eb-a746-fdabd18be9c6,MAKIO,Makio ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen Municipality,6598815.0,75.0,,Other Professional Services,,https://makio.dk/
+313,d5937753-93e4-11eb-9937-4fab995bf8ff,Manpowergroup,ManpowerGroup AB.,Sweden,SE,Stockholm County,Solna,768273.0,19.0,,Other Professional Services,Professional & Commercial Services,https://www.manpowergroup.se/
+314,753387b2-93e4-11eb-aa66-9b8d95e2171b,MANPOWER,,Norway,NO,Oslo,Oslo,487000.0,4000.0,1965.0,Other Professional Services,Professional & Commercial Services,https://www.manpower.no/nb
+315,9e655640-93e4-11eb-a736-0f5b20ecb2f1,MapsPeople,MapsPeople A/S,Denmark,DK,North Denmark Region,Nørresundby,6800000.0,130.0,1897.0,IT&C Services,Building Products & Furnishings,https://www.mapspeople.com/
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,Markedssjefene,,Norway,NO,Oslo,Oslo,12960193.0,38.0,2013.0,Advertising & Marketing,Advertising & Marketing,https://www.markedssjefene.no/
+317,002ff970-93e5-11eb-8ad6-7326edce8d21,Colas Danmark,Colas Denmark A/S.,Denmark,DK,Central Denmark Region,Horsens,210093952.0,228.0,1960.0,Building Products,Construction Materials,http://colas.dk/
+318,000edce5-93e5-11eb-8474-3bbe2d07207d,Malermestrene Juuhl & Bratfoss,,Norway,NO,Oslo,Oslo,834027.0,4.0,1973.0,Construction,Engineering & Construction Services,https://jubr.no/
+319,86550f01-93e4-11eb-97db-273ba5953680,Maven Wireless,Maven Wireless Sweden AB. | Maven Wireless Inc. | Maven Wireless AB.,Sweden,SE,Stockholm County,Stockholms Kommun,1600000.0,51.0,2016.0,IT&C Services,Telecommunication Services,https://mavenwireless.com/
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Mavenir Systems AB.,Mavenir Systems AB.,Sweden,SE,Stockholm County,Stockholm,,,,Health Care & Social Assistance,,
+321,778051d9-057a-11ec-b41b-d7058b59cf68,Mavenir Systems Inc.,Mavenir Systems Inc. | 6740 HubSpot Inc.,United Kingdom,GB,England,Henley-on-Thames,,,,Advertising & Marketing,Professional & Commercial Services,https://postsell.trade/
+322,bdb7856e-df67-11ed-b4c2-f1d5e4fb0acf,Mavenir Ipa Uk Limited,Mavenir Ipa Uk Limited,United Kingdom,GB,England,Cambridge,,,,,,
+323,5d14c4d9-06a7-11ec-8384-233d63a2625f,CONNECTme NOW,MEASAT Communication Systems Sdn. Bhd.,Malaysia,MY,Selangor,Cyberjaya,23879404.0,200.0,,IT&C Services,,https://connectmenow.my/
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Media Times Ltd.,Media Times Ltd.,Pakistan,PK,Punjab,Lahore,,,,IT&C Services,,
+325,ca6898fe-0d75-11ec-bc3a-abf705312cc2,Meisel AS,,Norway,NO,,,,,,,,http://meisel.no/
+326,68a204a1-a872-11ed-a172-c70b75c2da79,META World,,Ireland,IE,Leinster,Dublin,306933.0,1.0,2021.0,Advertising & Marketing,Advertising & Marketing,https://metaworld.ie/
+327,e96eddf8-f479-11ec-91fc-b9ab92f06ba6,SOS DPO,MICROSOFT IRELAND OPERATIONS LIMITED,,,,,,,,,,https://www.sos-dpo.com/
+328,4c721116-1afb-11ec-8511-032f81df2a60,Microsoft Norway,,Norway,NO,Oslo,Oslo,,,,IT&C Services,,http://www.microsoft.no/?opi=79508299&sa=U&ved=0ahUKEwij7OnH_6OMAxVSR2wGHUtXKMIQ61gIFCgQ&usg=AOvVaw28aI1DCJkLpz6OLarH1_XD
+329,161cca55-0fef-11ee-8498-a97a19847758,Micro Express Sales Pte Ltd.,Micro Express Sales Pte Ltd.,Singapore,SG,Central,Singapore,,,,,,
+330,2c53d1f1-6cf9-11ec-a598-5f2181f71be8,ABC Spilleautomater,,Denmark,DK,Capital Region Of Denmark,Frederiksberg,,,,"Arts, Entertainment & Recreation",Casinos & Gaming,https://abcspilleautomater.dk/
+331,aa736d53-93e4-11eb-be3a-7f925cb94351,Miralix,Miralix A/S.,Denmark,DK,Central Denmark Region,Hedensted,4619644.0,75.0,,Advertising & Marketing,Professional & Commercial Services,https://www.miralix.dk/
+332,740de470-cf7a-11ec-8f8e-bde829059b5f,Mixpane,Mixpanel UK Limited and Mixpanel APAC Pte.,United States,US,California,San Francisco,,,2019.0,IT&C Services,Software & IT Services,http://cosmic-star.net/
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,mnemonic AS.,,Norway,NO,Oslo,Oslo,50000000.0,420.0,2000.0,IT&C Services,Software & IT Services,https://www.mnemonic.io/
+334,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,Mobilepeople,Mobilepeople ApS.,Denmark,DK,Capital Region Of Denmark,Herlev,1200000.0,15.0,1989.0,Finance & Insurance,,https://mobilepeople.dk/
+335,5577f372-a5dd-11ef-aeae-313c0af7c979,Mobileum,Mobileum Inc.,United States,US,California,Cupertino,,,,IT&C Services,Telecommunication Services,https://f6-development-mobileum-site.azurewebsites.net/
+336,40e47543-93e5-11eb-8ad6-7326edce8d21,Modulex,Modulex A/S.,Denmark,DK,Region Of Southern Denmark,Billund,5000000.0,280.0,1963.0,Other Capital Goods,Advertising & Marketing,https://modulex.com/
+337,0c78cf9d-93e5-11eb-86dd-ffbd1b53140e,Monday,monday Ltd.,Israel,IL,Tel Aviv District,Tel Aviv-Yafo,730000000.0,1854.0,2012.0,IT&C Services,Software & IT Services,https://monday.com/
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Mustika Teratai Sdn. Bhd.,Mustika Teratai Sdn. Bhd.,Malaysia,MY,Johor,Johor Bahru,,,,,,
+339,1fe8fa60-2ed4-11ed-b9a7-3dffeb5c7adf,Nagarro,,,,,,,,,IT&C Services,Software & IT Services,https://nagarro-clone.vercel.app/
+340,3038e1e5-f85b-11ed-b4e8-e74dfe271a42,Nagarro Hiring Team,,India,IN,Delhi,North East Delhi,,,,,,
+341,c43c3a03-93e4-11eb-8e19-198fb02d6f96,NEC Corporation of Malaysia,NEC Corporation | Nippon Electronic Corporation | Nippon Electric Corporation | Nippon Denki Kabushiki Kaisha | NEC Electronics Corporation,Japan,JP,Tokyo,Tokyo,26541574144.0,114714.0,1899.0,IT&C Services,Telecommunication Services,https://www.nec.com/
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,NEC Corporation Of Malaysia Sdn. Bhd.,NEC Corporation Of Malaysia Sdn. Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,26825816.0,240.0,1988.0,IT&C Services,,
+343,017131b8-046b-11ec-8cc5-dd2bf7d5b9b0,Scandinavian Packages,Scandinavian Packages AB.,Sweden,SE,Stockholm County,Järfälla,515306.0,3.0,,Other Consumer Services,Leisure Facilities,https://scandinavianpackages.com/
+344,0cf1a919-93e5-11eb-86dd-ffbd1b53140e,NemTilmeld,,Denmark,DK,North Denmark Region,Nørresundby,3026908.0,10.0,2012.0,IT&C Services,Professional & Commercial Services,https://www.nemtilmeld.dk/
+345,0c423876-0db9-11ec-b2c4-4d7effb1fb54,LivinLovinBali,Nepa AB.,,,,,,1.0,,"Arts, Entertainment & Recreation",Leisure Facilities,https://livelikeyoga.com/
+346,f2337fe2-93e4-11eb-a746-fdabd18be9c6,Direkte Frakt,,Norway,NO,Viken,Enebakk,23134226.0,75.0,,Transport & Warehousing,Air Freight & Logistics,https://direktefrakt.no/
+347,83ad4797-93e4-11eb-97db-273ba5953680,Nestor Cables,,Finland,FI,North Ostrobothnia,Oulu,39871916.0,125.0,,Electronics & Appliances,Electrical & Electronic Equipment,https://www.nestorcables.fi/
+348,36898c82-93e5-11eb-97db-273ba5953680,Net One Asia,Net One Asia Pte Ltd. | Net One Asia Pty Ltd.,Singapore,SG,Central,Singapore,39571800.0,140.0,2008.0,IT&C Services,Software & IT Services,https://www.netoneasia.com/
+349,3e619af8-93e5-11eb-8859-29e7c34dee35,Netic,Netic A/S.,Denmark,DK,North Denmark Region,Aalborg,6000000.0,160.0,2002.0,IT&C Services,Software & IT Services,http://netic.dk/
+350,748dd1da-93e4-11eb-8e19-198fb02d6f96,NemID,Nets DanID A/S.,Denmark,DK,,,,,,IT&C Services,Software & IT Services,https://www.mitid.dk/
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,New Skies Satellites B.V.,New Skies Satellites B.V.,Netherlands,NL,South Holland,The Hague,,,,,,
+352,01004641-1dd8-11ef-9268-316fc8e174dd,Private Helipad Ali Villa,,Pakistan,PK,Sindh,Karachi,,,,,,
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom A/S.,Nexcom A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,IT&C Services,,http://www.nexcom.dk/
+354,0bc250d0-93e5-11eb-b5f6-816dd10ac7b0,Experian,Noitso A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,24420772.0,70.0,1980.0,Finance & Insurance,Consumer Finance,http://www.experian.dk/
+355,3d547a04-72bb-11ec-b5ce-b3bda5adefa4,Nokia Foundation,,Finland,FI,Uusimaa,Espoo,30000000.0,75.0,1995.0,Non Profit,Telecommunication Services,https://nokiafoundation.com/
+356,74601f29-1afc-11ec-aa0f-ab42aaaa4d70,Nokia Solutions And Networks Sdn Bhd.,Nokia Solutions And Networks Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,IT&C Services,,
+357,01394ab2-02ed-11ed-ab36-3be868283ba6,Fornebu Kiropraktorsenter,,Norway,NO,Viken,Bærum,637241.0,4.0,2000.0,Health Care & Social Assistance,Health Care Delivery,https://fornebukiropraktorsenter.no/
+358,1d0e5cd1-0a98-11ec-bfa5-67a4bc68de73,HEXA-X Consortium,Nokia Solutions and Networks OY.,Finland,FI,Uusimaa,Espoo,21639072.0,75.0,,IT&C Services,Telecommunication Services,https://hexa-x.eu/
+359,7404600f-02ea-11ed-9330-439ae68059a7,Nordea,Nordea Bank Abp.,Norway,NO,Oslo,Oslo,19219092.0,41.0,2007.0,Finance & Insurance,Commercial Banks,https://nordeea.co.uk/
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nordic Computer,Nordic Computer A/S.,Denmark,DK,North Denmark Region,Nørresundby,,,1979.0,Other Professional Services,Hardware,https://nordiccomputer.com/
+361,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Nordix Data,,Norway,NO,Troms Og Finnmark,Tromsø,16446053.0,24.0,,IT&C Services,Telecommunication Services,https://www.nordix.no/
+362,02ddf6f4-0953-11ed-8906-6bcfb1398b7a,Busk Demo,,Denmark,DK,Capital Region Of Denmark,Copenhagen,1750343.0,15.0,,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://busk-demo.myshopify.com/
+363,e8b6c215-93e4-11eb-8474-3bbe2d07207d,Norwegian,,Norway,NO,Viken,Bærum,1554732288.0,3000.0,,Transport & Warehousing,Airlines,https://www.norwegian.no/
+364,1da9722c-93e5-11eb-86dd-ffbd1b53140e,Novataris,Novataris A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,10361011.0,53.0,2014.0,IT&C Services,Software & IT Services,https://www.novataris.com/en/
+365,5212c34c-f8af-11ed-b2ae-8f7420b1f92e,NTT DATA Thailand,NTT Data Thailand Co. Ltd. | NTT DATA Corporation Co. Ltd.,Thailand,TH,Bangkok,Bangkok,4050882.0,160.0,2007.0,IT&C Services,,
+366,04ffa9f7-93e5-11eb-8ad6-7326edce8d21,Amazon,Amazon Asia-Pacific Holdings Private Limited,Singapore,SG,Central,Singapore,60484720.0,150.0,2014.0,Other Durable Products,Multiline and Specialty Retailers & Distributors,https://www.amazon.sg/
+367,44dda433-8ac1-11ec-b892-9b33177d601b,NTT DATA Business Solutions Hungary,,Hungary,HU,Budapest,Budapest,3722201.0,66.0,1994.0,Other Professional Services,,
+368,043f0af0-a7d0-11ed-8169-bfb473e2b988,Itelligencedeblog,,,,,,,,2003.0,IT&C Services,Media & Entertainment,https://itelligencedeblog.wordpress.com/
+369,dc9ecf43-8a98-11ec-a22b-09a2b609bcf4,NTT DATA Malaysia,NTT DATA Corporation,Malaysia,MY,Selangor,Petaling Jaya,,92.0,2000.0,,,
+370,6db1413a-1d6a-11ef-8ca4-a917ae6b537d,NTT Cloud Communications Malaysia Sdn Bhd.,NTT Cloud Communications Malaysia Sdn Bhd.,Malaysia,MY,Selangor,Petaling Jaya,,,,,,
+371,730ffb2d-0b27-11ec-b2ab-d99f5193142c,OCH,OCH A/S.,Denmark,DK,,,57397932.0,150.0,,IT&C Services,Telecommunication Services,http://och.dk/da
+372,d9669f7b-93e4-11eb-91fb-73d498260b10,OK a.m.b.a,OK a.m.b.a,Denmark,DK,Capital Region Of Denmark,Copenhagen,78489800.0,1100.0,1913.0,Other Consumer Services,,https://www.ok.dk/
+373,a54919b7-93e4-11eb-b4a6-27899be4e45d,OMD World Imaging,OMD World Imaging M Sdn. Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Other Capital Goods,,https://omdworldimaging.com/
+374,c7578028-8aa5-11ec-8962-8b4db591a2d2,OMD Norway,,Norway,NO,Oslo,Oslo,23855504.0,67.0,,Advertising & Marketing,,
+375,ac63db81-72e7-11ec-8200-bfd1296681fb,New Media Direction,New Media Direction ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,Advertising & Marketing,Advertising & Marketing,http://www.newmediadirection.dk/
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Omega Exim Limited,Omega Exim Limited,Bangladesh,BD,Dhaka Division,Dhaka,1264433.0,130.0,2013.0,IT&C Services,Software & IT Services,https://www.omegaeximltd.com/
+377,56287c74-2509-11ec-bde8-71cf682bd51e,Omnicom Media Group AS,,Norway,NO,Oslo,Oslo,,,,,,
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Omnicom Media Group Asia Pacific,,Singapore,SG,Southwest,,,100.0,1998.0,,,
+379,50a6dd3e-c175-11ec-8c4a-c37e31e9be9e,ON THE SPOT,,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,Other Durable Products,,
+380,16e25e63-93e5-11eb-b5f6-816dd10ac7b0,ONETRUST,OneTrust LLC. | OneTrust Technology Limited,United Kingdom,GB,England,London,,15.0,,Blogs & Publications,Software & IT Services,https://cookiepedia.co.uk/
+381,015d07c4-93e5-11eb-9937-4fab995bf8ff,B.M.G CORPORATION CO LTD.,B.M.G CORPORATION CO LTD. | B.M.G. CORPORATION LTD.,Thailand,TH,Bangkok,Bang Rak,2426858.0,75.0,1979.0,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://www.bmgcorporationltd.com/
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Oracle Corporation Sdn. Bhd.,Oracle Corporation Sdn. Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,IT&C Services,,
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Oracle Danmark,,Denmark,DK,Capital Region Of Denmark,Gentofte Municipality,,,,,,
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Oracle Norge AS,,Norway,NO,Viken,Bærum,,,,IT&C Services,,
+385,9618c304-6ce1-11ed-809b-653634c631b4,Oracle Pet,,Sweden,SE,Västmanland County,Västerås Kommun,,3.0,,,,https://oraclepet.com/
+386,80ea7e12-93e4-11eb-be3a-7f925cb94351,Worbis,Orbis Oy.,Finland,FI,Uusimaa,Vantaa,13598198.0,31.0,1949.0,IT&C Services,Software & IT Services,https://orbis.fi/
+387,da01a6ec-93e4-11eb-b4a6-27899be4e45d,Orogenic,Orogenic ApS.,Denmark,DK,Region Of Southern Denmark,Vejle,24358964.0,75.0,2014.0,Other Nondurable Products,Fuel Cells & Industrial Batteries,https://orogenic.dk/
+388,023aff72-1a0d-11ef-9384-4731bdd44328,Herrington Gate,,United Kingdom,GB,England,East Boldon,2639854.0,15.0,,Architecture & Engineering Services,Engineering & Construction Services,https://herringtongate.design/
+389,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,P1 Security,P1 Security S.A.S.,France,FR,Ile-de-France,Paris,7000000.0,26.0,2009.0,IT&C Services,Software & IT Services,https://www.p1sec.com/
+390,6dd0de70-a7a9-11ed-b250-d1c44dcd1aef,PACO CASA a,PACO CASA CO. LTD.,Thailand,TH,Bangkok,Bangkok,,,,,,https://pacocasa.co.th/
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan Institute of Nuclear Science & Technology,,Pakistan,PK,Islamabad Capital Territory,Islamabad,88885.0,20.0,1951.0,Other Professional Services,,
+392,10dd8776-724b-11ec-9e45-ddda6fbc521a,Parent Zone Local,Parent and Family Consulting Limited,United Kingdom,GB,England,London,,15.0,,,,http://www.parentzone.org.uk/?opi=79508299&sa=U&ved=0ahUKEwjal9D86OCMAxW32QIHHd1VFxAQ61gIFigS&usg=AOvVaw29f1d3VxsM5nQbkYO5_T7_
+393,25f18078-93e5-11eb-8859-29e7c34dee35,Aspects of History,,United Kingdom,GB,England,London,205125.0,1.0,2020.0,Publishers & Media Companies,Media & Entertainment,https://aspectsofhistory.com/
+394,1bbb3bc3-72c2-11ec-a58d-416f72004c71,VARSTA A PATRA,,,,,,,1.0,,Blogs & Publications,Leisure Facilities,https://varstapatru.blogspot.com/
+395,424a94f5-93e5-11eb-8474-3bbe2d07207d,Ping IT,Ping IT A/S.,Denmark,DK,North Denmark Region,Svenstrup,,25.0,2012.0,Electronics & Appliances,Multiline and Specialty Retailers & Distributors,https://pingit.dk/
+396,fbe50634-036a-11ec-a72b-432edcbee847,Playable,Playable ApS.,Denmark,DK,Central Denmark Region,Aarhus,19215376.0,79.0,2017.0,IT&C Services,Software & IT Services,https://playable.com/
+397,7c54f062-93e4-11eb-b5f6-816dd10ac7b0,Plesner,,Denmark,DK,Capital Region Of Denmark,Copenhagen,75000000.0,425.0,1918.0,Legal,Professional & Commercial Services,https://plesner.com/en
+398,602ace8c-0c5e-11ec-b66a-97ea7481e556,PLP Invest Ejendomme,PLP Invest Ejendomme A/S.,Denmark,DK,Region Of Southern Denmark,Odense,21792710.0,75.0,,Real Estate,Real Estate Services,https://plp-ejendomme.dk/
+399,16f3bda9-055e-11ec-912d-93da5cd6dce1,Pluralsight,Pluralsight LLC.,United States,US,Utah,Draper,,,,"Arts, Entertainment & Recreation",Media & Entertainment,http://tordkalvenes.com/
+400,b529e3a6-93e4-11eb-8859-29e7c34dee35,Pm energi,PM ENERGI A/S.,Denmark,DK,North Denmark Region,Brønderslev,,,1942.0,Electronics & Appliances,Electrical & Electronic Equipment,https://pmenergi.dk/
+401,1de2d199-93e5-11eb-a736-0f5b20ecb2f1,PostNord Danmark Rundt,,Denmark,DK,,,7320492.0,25.0,,"Arts, Entertainment & Recreation",Toys & Sporting Goods,https://postnorddanmarkrundt.dk/
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Posten Bring,,Norway,NO,Oslo,Oslo,2497012736.0,12600.0,1647.0,Transport & Warehousing,Air Freight & Logistics,https://www.postenbring.no/
+403,93cb1a81-93e4-11eb-a746-fdabd18be9c6,Scanning,Scanning A/S.,Denmark,DK,Capital Region Of Denmark,Albertslund Municipality,,20.0,,Other Professional Services,Multiline and Specialty Retailers & Distributors,http://scanning.dk/
+404,f3137fa4-93e4-11eb-be5a-4f810ab55f2e,Strålfors,Postnord Strålfors Svenska AB. | PostNord Strålfors AB.,Sweden,SE,Kronoberg County,Ljungby,,,1993.0,Transport & Warehousing,Air Freight & Logistics,http://www.stralfors.se/
+405,00cd0dbb-f8b9-11ed-bc14-35485e3cf6c4,Revisionsfirmaet Claus Witt Statsautoriseret Revisor,,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,Finance & Insurance,,
+406,d4239772-8546-11ec-8f98-f9b40efdfe08,PricewaterhouseCoopers Norway,,Norway,NO,Oslo,Oslo,,30.0,,Blogs & Publications,Professional & Commercial Services,https://www.pwcmisconduct.com/
+407,d6682c74-93e4-11eb-919a-b3f9a5ad205c,ProPakistani,,Pakistan,PK,,,3200000.0,57.0,2008.0,Publishers & Media Companies,Telecommunication Services,https://propakistani.pk/
+408,7d6e00e2-0c9e-11ec-8076-17611444f1f8,Total Coating,,Norway,NO,Viken,Drammen,,,,Raw Materials,Chemicals,https://totalcoating.no/
+409,00f0d873-93e5-11eb-8474-3bbe2d07207d,Publicis Groupe,,Netherlands,NL,North Holland,Amsterdam,14000000.0,6.0,1880.0,Advertising & Marketing,Advertising & Marketing,https://publicisgroupe.nl/
+410,c4faca44-726b-11ec-822b-fb63e010c05b,QCC global,,,,,,,,,Pharmaceuticals & Cosmetics,Biotechnology & Pharmaceuticals,https://qcc-global.com/
+411,c40af0d1-93e4-11eb-b5f6-816dd10ac7b0,QCC Ltd.,QCC Ltd.,United Kingdom,GB,England,Swanley,2278678.0,15.0,,Construction,Engineering & Construction Services,https://qccltd.co.uk/
+412,463be1c1-2500-11ec-abad-a332bf576a25,Qliktech,,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,,IT&C Services,,http://www.qlikview.com/dk
+413,6e78222b-9df5-11ef-a80f-179817213e61,QLIKTECH INTERNATIONAL MARKETS AB.,QLIKTECH INTERNATIONAL MARKETS AB.,Sweden,SE,Skåne County,Lund,,,,,,
+414,55862ac9-9d66-11ef-aecb-ed811e9ee609,QLIKTECH INTERNATIONAL AB.,QLIKTECH INTERNATIONAL AB.,Sweden,SE,Skåne County,Lund,,10.0,,,,
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Qualtrics LLC.,Qualtrics LLC.,United States,US,Utah,Provo,1300000000.0,,2002.0,IT&C Services,,
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,Questback,Questback Deutschland GMBH | Questback Nederland B.V. | Questback OY. | Questback UK Ltd. | Questback Inc. | Questback GmbH | Questback Sweden AB.,Norway,NO,Oslo,Oslo,12689737.0,55.0,2000.0,IT&C Services,Advertising & Marketing,https://www.questback.com/
+417,7e7ca675-0db6-11ec-aaad-e5a5ee267b5b,Radio Frequency Systems,Radio Frequency Systems company,Germany,DE,Lower Saxony,Hanover,,,1972.0,Electronics & Appliances,Hardware,https://www.rfsworld.net/
+418,d107ada1-93e4-11eb-8859-29e7c34dee35,Rajah & Tann,Rajah & Tann Singapore LLP. | Rajah & Tann Thailand Limited,Singapore,SG,Central,Singapore,150000000.0,770.0,2007.0,Legal,Professional & Commercial Services,https://www.rajahtannasia.com/
+419,1a62837c-2d2f-11ed-bca0-45d3b4f58bc5,Rapid 7 EMEA Internal Moose,,United Kingdom,GB,England,Camberley,,,,"Apparel, Accessories & Footwear","Apparel, Accessories & Footwear",https://www.emea-internalmoose-swag.com/
+420,9973fa6b-8aae-11ec-be09-3b46a3ec669e,Red Hat Asia Pacific,,Singapore,SG,Central,Singapore,71563056.0,250.0,,IT&C Services,,
+421,1d6c9026-93e5-11eb-a736-0f5b20ecb2f1,Red PR Limited,Red PR Limited,Ireland,IE,Munster,Clonmel,1295041.0,4.0,2011.0,Advertising & Marketing,Professional & Commercial Services,https://redpr.ie/
+422,8d744e31-ca8a-11ec-bce4-ef3debe8cbb7,Red Harvest Malaysia,,Malaysia,MY,Selangor,Puchong,,,,IT&C Services,Software & IT Services,https://redharvestmalaysia.com/
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,Relocation,,Norway,NO,Rogaland,Stavanger,1000000.0,21.0,1996.0,Transport & Warehousing,,https://relocation.no/
+424,177157fd-93e5-11eb-b997-8dd98d09cf25,Retail Institute Scandinavia,Retail Institute,Denmark,DK,Capital Region Of Denmark,Kongens Lyngby,2499126.0,14.0,,Advertising & Marketing,Multiline and Specialty Retailers & Distributors,https://retailinstitute.dk/
+425,168fa5a3-20d1-11ee-955b-359ace42ebb8,RevealCX Inc.,RevealCX Inc.,United States,US,New York,New York,4163841.0,15.0,,IT&C Services,Software & IT Services,https://aiincx.com/
+426,c8b67a70-c825-11ec-89f7-7594ea00aeb1,Rezponz,Rezponz A/S.,Denmark,DK,North Denmark Region,Aalborg,4619644.0,75.0,,Advertising & Marketing,Professional & Commercial Services,https://rezponz.dk/
+427,11a58013-c50b-11ef-9531-7716dbb12d27,Rhenus Warehousing Solutions,,Denmark,DK,Central Denmark Region,Horsens,,,,,,
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal A/S.,Rittal A/S.,Denmark,DK,Capital Region Of Denmark,Vallensbæk Municipality,,,,IT&C Services,,http://www.rittal.dk/?opi=79508299&sa=U&ved=0ahUKEwj7qtnvvqOMAxVcTWwGHeNXIHUQ61gIEigP&usg=AOvVaw0S8lQM4PcIscN3aJ4j66ru
+429,f6e28875-0e7a-11ef-b07f-57006edc0fa1,Rttd,,Syria,SY,Rif Dimashq Governorate,Darayya Subdstrict,,,,Other Nondurable Products,,
+430,8bb3945c-12e7-11ec-92c5-236cf59fc383,Hillerup Grafisk Design,,Denmark,DK,,,156240.0,1.0,,Advertising & Marketing,Advertising & Marketing,https://hillerup-design.com/
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom Broadband SAS.,Sagemcom Broadband SAS.,,,,,,,,IT&C Services,Telecommunication Services,http://sherproductions.com/0.1/gui/
+432,1c3ff701-93e5-11eb-97db-273ba5953680,SailPoint,SailPoint Technologies Inc.,United States,US,Texas,Austin,1888190.0,7.0,2005.0,IT&C Services,Software & IT Services,https://www.sailpoint.com/
+433,31fb638d-1105-11ec-a8d6-03ab78afae8c,The Salesforce PM,The Salesforce PM Limited,United Kingdom,GB,England,Richmond,143246.0,1.0,1983.0,Other Professional Services,Software & IT Services,https://marseillanvacances.com/
+434,01bc3341-6a03-11ec-ab63-87914d0623be,LIVING OAKS,,Singapore,SG,Central,Singapore,913251.0,4.0,,Architecture & Engineering Services,Engineering & Construction Services,http://www.livingoaks.sg/
+435,ceff37a2-02d7-11ed-8baf-6351820414ca,Salling Group,,Denmark,DK,Central Denmark Region,Aarhus,,,,Toys & Sporting Goods,Investment Banking & Brokerage,https://puchcykler.dk/
+436,e196c56b-a6f0-11ef-a654-07876f90535e,GNEX,Glocal Nexus Express Sdn. Bhd.,Malaysia,MY,Selangor,Ampang Jaya Municipal Council,,,2022.0,Transport & Warehousing,Air Freight & Logistics,https://gnex.com.my/
+437,2d6323ad-1afe-11ec-be37-19557aad561c,Samsung Electronics Nordic AB.,Samsung Electronics Nordic AB.,Sweden,SE,Stockholm County,Stockholms Kommun,,,,Electronics & Appliances,,
+438,425606ac-93e5-11eb-919a-b3f9a5ad205c,Sanvaru Technology,Sanvaru Technology Limited,India,IN,Haryana,Sonipat,1731436.0,150.0,,Other Nondurable Products,Fuel Cells & Industrial Batteries,https://sanvaru.com/
+439,066eca52-93e5-11eb-919a-b3f9a5ad205c,SAP HANA,,Denmark,DK,,,14661808.0,75.0,,IT&C Services,Professional & Commercial Services,https://saphana.dk/
+440,0313df85-93e5-11eb-8474-3bbe2d07207d,Hoegheiendom,,Norway,NO,Oslo,Oslo,96840336.0,55.0,,Construction,Real Estate,https://hoegheiendom.no/
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,Saville Consulting Danmark,Saville Consulting Danmark A/S. | Saville Assessment Nordic A/S.,Denmark,DK,Capital Region Of Denmark,Rudersdal Municipality,,,,Other Professional Services,Professional & Commercial Services,https://www.savilleconsulting.dk/
+442,0252d979-93e5-11eb-8859-29e7c34dee35,Schneider Electric Denmark A/S.,Schneider Electric Denmark A/S.,Denmark,DK,,,,,,Electronics & Appliances,Electrical & Electronic Equipment,https://www.studiecd.dk/
+443,ac84e842-93e4-11eb-919a-b3f9a5ad205c,Scrive,Scrive AB. | Scrive GmbH,Sweden,SE,Stockholm County,Stockholm,42205780.0,210.0,2010.0,IT&C Services,Software & IT Services,http://www.scrive.com/
+444,77842e7a-93e4-11eb-8474-3bbe2d07207d,ServiceNow BV.,ServiceNow BV.,Netherlands,NL,North Holland,Amsterdam,,,,IT&C Services,,https://www.servicenow.nl/?opi=79508299&sa=U&ved=0ahUKEwjK0bG5yquMAxW2SGwGHbipE38Q61gIFigS&usg=AOvVaw3HAkGOUFTnqkqTbd1TwYS9
+445,d488be11-93e4-11eb-8e19-198fb02d6f96,SFDC,SFDC Limited,India,IN,West Bengal,Bidhannagar,,,,"Agriculture, Forestry, Fishing and Hunting","Meat, Poultry & Dairy",https://wbsfdcltd.com/
+446,19b665f0-93e5-11eb-a736-0f5b20ecb2f1,Sacred Sun,Shandong Sacred Sun Power Sources Co. Ltd. | Sacred Sun Europe SARL,China,CN,Shandong,Lucheng,,,1991.0,Other Nondurable Products,Fuel Cells & Industrial Batteries,https://sacredsun.com/
+447,427adc04-e7a9-11ec-b6b7-8f4fbf416354,Vision_Smart_Batteries_Backup_Power,SHENZHEN CENTER POWER TECH CO.LTD,China,CN,Guangdong Province,Shenzhen,,,,,,https://www.g0t8tt0j.com/
+448,0020c3c2-6d19-11ec-89a3-d7e781f18621,HST Electronic,Shenzhen HST Electronic Technology Co. Ltd.,China,CN,Guangdong Province,Shenzhen,5927687.0,105.0,,Electronics & Appliances,Hardware,http://hst-keyfinder.com/
+449,83d0637d-e5e0-11ec-bc14-1101693c4049,XMediaCloud,Shenzhen SDMC Technology Co. Ltd.,China,CN,Guangdong Province,Shenzhen,6924801.0,150.0,2008.0,IT&C Services,Media & Entertainment,https://www.xmediacloud.com/
+450,02f80969-e7b5-11ed-ad08-af303e1f5d45,Shenzhen Xinxiapu Digital Technology Devlopment Limited Company,Shenzhen Xinxiapu Digital Technology Devlopment Limited Company,China,CN,Guangdong Province,Shenzhen,,,,Electronics & Appliances,,
+451,2c92a3fa-796c-11ed-9abd-874b38645ac9,Sapphire Steel,Sapphire Steel Fabrication Limited,United Kingdom,GB,England,South Ockendon,11527679.0,75.0,,Raw Materials,Iron & Steel Producers,https://www.sapphiresteel.co.uk/
+452,2f5615e0-0d48-11ec-baff-b3f7938105ab,Shuangdeng Group,,China,CN,Jiangsu,Taizhou,,,,Other Nondurable Products,Fuel Cells & Industrial Batteries,http://www.shuangdeng.com.cn/
+453,13b510b2-6cd5-11ec-a7ce-97f401b36f3f,Cube-Coms,Cube Communication Sdn bhd.,Malaysia,MY,Selangor,Subang Jaya,5111336.0,75.0,,IT&C Services,Telecommunication Services,https://cube-coms.com/
+454,1d3ad1c3-93e5-11eb-a746-fdabd18be9c6,SIAE MICROELETTRONICA,,Italy,IT,Lombardy,Cologno Monzese,255000000.0,1500.0,1952.0,Electronics & Appliances,Telecommunication Services,https://siaemic.com/
+455,a823b0f3-93e4-11eb-aa66-9b8d95e2171b,Sievo Bucharest Office,Sievo Inc. | Sievo Oy. | Sievo Trust,Finland,FI,Uusimaa,Helsinki,30581256.0,125.0,,IT&C Services,Software & IT Services,https://sievo.com/
+456,7f321fd7-93e4-11eb-8859-29e7c34dee35,Kantega,,Norway,NO,Oslo,Oslo,25072464.0,180.0,2003.0,IT&C Services,Software & IT Services,https://www.kantega.no/
+457,ab1c21c0-f8b5-11ed-a8b3-7b4d48a6e9d9,Sillehoved,,Denmark,DK,Region Zealand,Odsherred Municipality,,,,"Apparel, Accessories & Footwear",,
+458,0cb473fa-f6e1-11ec-a34e-db0bb32b96ad,Robo Global Investment,ROBO GLOBAL INVESTMENT PTE LTD.,Singapore,SG,Central,Singapore,2165247.0,5.0,2022.0,Finance & Insurance,Asset Management & Custody Activities,https://roboglobal.info/
+459,c5c33721-36a5-11ee-8990-27210bb4da72,SIPM,,Mexico,MX,Mexico City,Mexico City,6225939.0,75.0,2003.0,Other Capital Goods,Medical Equipment & Supplies,https://sipm.mx/
+460,008d406a-0e12-11ec-b4c9-d16f1d69042b,Softvision,Softvision Online Inc.,Thailand,TH,Bangkok,Yan Nawa District,457603.0,15.0,,IT&C Services,Hardware,https://www.softvisiononline.com/
+461,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,Skycall AS,,Norway,NO,Viken,Bærum,3224044.0,35.0,,Advertising & Marketing,,https://skycallas.no
+462,c0d2889e-ce72-11ed-a907-57a65e0d2603,Smart Modular,Smart Modular Technology Pte Ltd.,Singapore,SG,Central,Singapore,20580716.0,75.0,,Electronics & Appliances,Hardware,https://smartmodular.sg/
+463,16a46b07-93e5-11eb-aa66-9b8d95e2171b,Smart Technologies BD Ltd. Store Room,,Bangladesh,BD,Dhaka Division,Dhaka,,,1998.0,Electronics & Appliances,Hardware,https://smartbd.com/
+464,13bdaad5-0fd2-11ee-bf56-93e389618473,SF Holding,SF Holding Oy.,Finland,FI,Uusimaa,Kerava,,,,,Multiline and Specialty Retailers & Distributors,https://sf-holding.fi/
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,SNOW SOFTWARE,Snow Software GmbH | Snow Software AB.,Sweden,SE,Stockholm County,Stockholm,30530578.0,150.0,1997.0,IT&C Services,Software & IT Services,https://snowsoftware.com/
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,Snow Software ApS.,Snow Software ApS.,Denmark,DK,,,,,,IT&C Services,Software & IT Services,https://snow-software.cc/
+467,8acb06cd-93e4-11eb-8ad6-7326edce8d21,Dråpen i Havet,,Norway,NO,Viken,Bærum,17056084.0,37.0,2015.0,Non Profit,,https://www.drapenihavet.no/
+468,1c568f21-ef82-11ee-99aa-8b980cad1cb9,SoftwareOne,,,,,,,,,IT&C Services,,https://softwareone.digital/
+469,ca236fc9-1b01-11ec-893d-41807d3de292,SoftwareONE Norge AS,,Norway,NO,Oslo,Oslo,,,,IT&C Services,,
+470,1c568f21-ef82-11ee-99aa-8b980cad1cb9,SoftwareOne,,,,,,,,,IT&C Services,,https://softwareone.digital/
+471,df703dc0-fe05-11ed-86aa-fd7967b4c1d9,Sony Store,,Sweden,SE,Skåne County,Lund,,,,,,
+472,2c51a7ea-d88d-11ec-8458-930fb706770a,South Pole,South Pole Carbon Asset Management S.A.S.,Sweden,SE,Stockholm County,Stockholm,,,,Architecture & Engineering Services,,
+473,04ec320a-18fe-11f0-b4d0-096f959c77d2,Southern Nine Sdn. Bhd.,Southern Nine Sdn. Bhd.,Malaysia,MY,Kedah,Sungai Petani,,,,Building Products,Construction Materials,https://southernnine.com/
+474,dc3d014e-25aa-11ef-84bb-3b7d91468c81,Splunk,,United States,US,Pennsylvania,State College,,,,IT&C Services,Software & IT Services,https://www.support.splunk.psu.edu/
+475,f7e5eff0-58e5-11ed-9cc3-5bfe46360075,Sports Star International Pvt Ltd.,Sports Star International Pvt Ltd.,Pakistan,PK,Punjab,Lahore,,,,,,
+476,22b4fac0-5b0a-11ed-8fd6-0b23d22de7da,SquareTrade,,,,,,,,,Finance & Insurance,Insurance,https://mercuryinsurancewarranty.com/
+477,2c43d957-93e5-11eb-8474-3bbe2d07207d,SquareTrade,SquareTrade Limited,United Kingdom,GB,England,London,7911480.0,75.0,,Finance & Insurance,Multiline and Specialty Retailers & Distributors,http://squaretrade.uk/
+478,a500b71f-f6e3-11ed-98d1-c9172c48015a,STARCOM MEDIA VEST GROUP FZ-LLC,,United Arab Emirates,AE,Dubai,Muhaisnah 3,,,,,,
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,Starseed Technologies S Pte. Ltd.,Starseed Technologies S Pte. Ltd.,Singapore,SG,Southeast,,,,,,,
+480,05cf9ef0-f8c2-11ed-a4de-7df22657eaf0,Stena Recycling AB - Tingstad,,Sweden,SE,Västra Götaland County,Gothenburg,,,,Architecture & Engineering Services,,
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,Storm Communications,,Norway,NO,Oslo,Oslo,25250424.0,75.0,,Advertising & Marketing,Professional & Commercial Services,http://www.stormhuset.no/
+482,1de6f043-93e5-11eb-b5f6-816dd10ac7b0,Sadko,SUBEX s.r.o.,,,,,,150.0,,Food & Beverages,Alcoholic Beverages,http://sadko.su/
+483,1de6f043-93e5-11eb-b5f6-816dd10ac7b0,Sadko,SUBEX s.r.o.,,,,,,150.0,,Food & Beverages,Alcoholic Beverages,http://sadko.su/
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,Sutera Utama Sdn. Bhd.,Sutera Utama Sdn. Bhd.,Malaysia,MY,Johor,Plentong,,30.0,,,,https://sutera.my/
+485,324b1f73-93e5-11eb-8859-29e7c34dee35,Swichtec Power Systems,SWICHTEC POWER SYSTEMS SDN BHD.,Malaysia,MY,Selangor,Shah Alam,4592018.0,75.0,1985.0,Electronics & Appliances,Fuel Cells & Industrial Batteries,https://swichtec.com.my/
+486,b959842b-ca9f-11ef-bc93-a995b773383c,CariTakaful.Keluarga,Syarikat Takaful Malaysia Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,,,,Finance & Insurance,Insurance,https://www.caritakafulkeluarga.com/
+487,84e29359-93e4-11eb-a33a-a3dfba582839,Syniverse,Syniverse Technologies GmbH | Syniverse Technologies BV. | Syniverse Technologies LLC. | Syniverse Technologies Messaging ApS. | Syniverse Technologies Solutions Limited,United States,US,Florida,Tampa,1019150784.0,1400.0,1987.0,IT&C Services,Software & IT Services,https://www.syniverse.com/
+488,c5d06e91-93e4-11eb-a736-0f5b20ecb2f1,Techvista Systems,SYSTEMS LIMITED.,Pakistan,PK,Punjab,Lahore,30742548.0,5320.0,1977.0,IT&C Services,Software & IT Services,https://systemsltd.com/PK
+489,af498674-93e4-11eb-b5f6-816dd10ac7b0,Aalborg Gummivarefabrik,AAG Aalborg Gummivarefabrik A/S.,Denmark,DK,North Denmark Region,Nørresundby,40202612.0,150.0,1934.0,Raw Materials,Chemicals,https://aag.world/shop/frontpage.html
+490,389f973e-01ee-11ec-8b61-35bce24791d3,POL,,Norway,NO,Oslo,Oslo,101001696.0,300.0,2013.0,Advertising & Marketing,Professional & Commercial Services,https://pol.no/
+491,00cfe2f8-93e5-11eb-b997-8dd98d09cf25,Reed Tan Digital,Reed Tan Digital Pte. Ltd.,Singapore,SG,Central,Singapore,261365.0,1.0,2009.0,Advertising & Marketing,Advertising & Marketing,https://reedtan.com/
+492,4ccb39c7-c026-11ec-9880-5b9f9a6d0d58,Talend sa.,Talend sa.,Sweden,SE,Västra Götaland County,Gothenburg,,15.0,,Blogs & Publications,Multiline and Specialty Retailers & Distributors,https://investerarpengarskpj.web.app/
+493,14426861-22ee-11ec-9e3b-1143ee662a91,Talentech Denmark,,Denmark,DK,Capital Region Of Denmark,Copenhagen,5776510.0,26.0,2020.0,IT&C Services,,https://www.talentech.dk/
+494,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,Tampnet AS,Tampnet Inc. | Tampnet UK Ltd. | Tampnet Germany GmbH | Tampnet Ltd. | Tampnet Netherlands B.V.,Norway,NO,Rogaland,Stavanger,37000000.0,180.0,2001.0,IT&C Services,Software & IT Services,http://www.tampnet.com/
+495,07b1780d-05c5-11ec-abfc-31972501e45a,Tamita Singapore Advisors Pte Ltd.,Tamita Singapore Advisors Pte Ltd. | Tamita Singapore Advisors Pte. Limited,Singapore,SG,Central,Singapore,2348470.0,5.0,2010.0,Finance & Insurance,Investment Banking & Brokerage,https://tamita.com/
+496,2b145a02-93e5-11eb-8859-29e7c34dee35,TATA COMMUNICATIONS DIGO,Tata Communications Limited | Tata Communications Pte Ltd. | Tata Communications International Pte Ltd. | Tata Communications UK Ltd.,Singapore,SG,Southeast,,126300000.0,4700.0,2008.0,IT&C Services,Telecommunication Services,https://www.tatacommunications-ts.com/
+497,f875b097-bf89-11ec-a505-d94087b31ae6,TATA SKO,,Denmark,DK,Capital Region Of Denmark,Copenhagen,,5.0,,,,https://www.tatasko.dk/
+498,0fb6f630-08ac-11ee-8fff-592c90920b7e,Tata Consultancy Services. Sep,FORMBY MINI-GOLF LTD.,,,,,,,,Health Care & Social Assistance,Real Estate Services,https://workfood.eu/
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,Mobile Tech International HK Co Ltd.,Mobile Tech International HK Co Ltd.,Hong Kong,HK,Hong Kong,Kwai Chung,,,,,,
+500,00e95dd3-03c4-11ec-866d-75f684b48576,Midtjysk Hundecenter,,Denmark,DK,Central Denmark Region,Viborg Municipality,766929.0,15.0,,Other Consumer Services,Multiline and Specialty Retailers & Distributors,https://midtjysk-hundecenter.dk/
+501,37f7eb7f-192e-11f0-9849-1d278d4a6d23,Tealium,Tealium Inc.,United States,US,California,San Diego,,,,,,https://tealium.events/
+502,2d63c842-93e5-11eb-b997-8dd98d09cf25,TEAM International,TEAM International Services Inc.,United States,US,Florida,Lake Mary,320000000.0,870.0,2004.0,IT&C Services,Software & IT Services,https://www.teaminternational.com/
+503,30311916-93e5-11eb-8474-3bbe2d07207d,Vigotext,V .Tech Thailand Company Limited,Thailand,TH,Nonthaburi Province,Pak Kret District,1274733.0,75.0,,Construction,Engineering & Construction Services,http://www.vigotext.com/
+504,00beab84-918f-11ed-8109-cd2bc6a86027,Aital Homenursing Care Services,Aital Homenursing Care Services Company,Malaysia,MY,Selangor,Cyberjaya,1026601.0,75.0,2018.0,Health Care & Social Assistance,Health Care Delivery,https://aitalhomenursingcareservices.com.my/
+505,bd9ea750-93e4-11eb-be5a-4f810ab55f2e,Tecnotree,Tecnotree Corporation | Tecnotree Oyj.,Finland,FI,Mainland Finland,Espoo,56637108.0,1400.0,1983.0,IT&C Services,Electric Utilities & Power Generators,https://www.tecnotree.com/
+506,04a78940-19a9-11ee-aec0-a1af3c434505,Telecom Equipment Pte Ltd.,Telecom Equipment Pte Ltd.,Singapore,SG,Central,Singapore,,,,Other Professional Services,,
+507,1b0fb400-a7d5-11ed-9228-6df634a34cc8,TM Global,Telekom Malaysia UK Ltd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,17037788.0,250.0,,IT&C Services,Software & IT Services,https://tmglobal.com.my/
+508,bb9fa300-93e4-11eb-a33a-a3dfba582839,Telenor,Sonofon A/S.,Denmark,DK,North Denmark Region,Aalborg,,,1991.0,IT&C Services,Telecommunication Services,https://www.telenor.dk/
+509,b70157e3-8bb4-11ee-bafd-2110635ddb21,Telenor ASA.,Telenor ASA.,,,,,,,,IT&C Services,Telecommunication Services,https://inwa777apk.com/
+510,342de933-93e5-11eb-9937-4fab995bf8ff,Telenor Satellite,,Norway,NO,Viken,Bærum,1594596480.0,1500.0,2020.0,IT&C Services,Media & Entertainment,https://www.spacenorway.com/
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,Telenor Connexion,,Sweden,SE,Stockholm County,,13600000.0,,2008.0,,,https://www.telenorconnexion.com/
+512,9ca9c0c6-aa7c-11ec-a638-89115c56d9b3,Yettel,Telenor d.o.o.,Serbia,RS,City Of Belgrade,Belgrade,545239424.0,1848.0,1994.0,IT&C Services,Telecommunication Services,https://www.yettel.rs/
+513,3cb01a68-93e5-11eb-a746-fdabd18be9c6,CPH Raft,CPH RAFT Entertainment ApS. | CPH Raft og. | CPH Raft ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen,181240.0,1.0,2017.0,Transport & Warehousing,Cruise Lines,https://www.cphraftent.com/
+514,244907b2-1698-11ee-9aad-f7c11d5080a1,Telenor Objects AS,,Norway,NO,Viken,Bærum,,,,IT&C Services,,
+515,101cc600-235b-11ec-a95a-53153c834fe2,Telenor Mobil AS avd Rørvik,,Norway,NO,Viken,Bærum,,,,Finance & Insurance,,
+516,05d82fa0-93e5-11eb-8474-3bbe2d07207d,Environmental Services Pakistan,Environmental Services Pakistan Private Limited,Pakistan,PK,Punjab,,123540.0,35.0,2017.0,Architecture & Engineering Services,Engineering & Construction Services,https://espak.com.pk/
+517,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Telenor Asia,,Singapore,SG,Central,Singapore,,,1998.0,IT&C Services,Telecommunication Services,https://telenorasia.com/
+518,00d19d70-5e13-11ef-904a-b5358eb47b36,Telenor Franchise Brainz Communication,,Pakistan,PK,,,,,,IT&C Services,,
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor Cloud services AS,,Norway,NO,Viken,Bærum,,,,,,
+520,0bfd6f80-ca6c-11ec-9fda-955688f546bd,Yettel Business Blog,Yettel Magyarország Zrt.,Hungary,HU,Pest,Törökbálint,,,,Blogs & Publications,Software & IT Services,https://yettelbusinessblog.hu/
+521,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Telenor Norges,,Norway,NO,Viken,Bærum,22572068.0,20.0,1996.0,IT&C Services,Telecommunication Services,http://www.telenor.no/
+522,b69c114f-93e4-11eb-b4a6-27899be4e45d,Telenor Pakistan,Telenor Pakistan Private Limited,Pakistan,PK,Islamabad Capital Territory,Islamabad,451406688.0,22000.0,2004.0,IT&C Services,Telecommunication Services,http://www.telenor.com.pk/
+523,f8dd5135-0c43-11ee-b94f-ebf23e82ffaf,Telenor Asia,,Singapore,SG,Central,Singapore,,,1998.0,IT&C Services,Telecommunication Services,https://telenorasia.com/
+524,1ac82415-93e5-11eb-be3a-7f925cb94351,Telenor Expo,,Norway,NO,Viken,Bærum,,,,"Arts, Entertainment & Recreation",Telecommunication Services,https://www.telenorexpo.no/
+525,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor Cloud services AS,,Norway,NO,Viken,Bærum,,,,,,
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,Telenor Software Lab AS TSL,,Norway,NO,Viken,Bærum,,,,Other Capital Goods,Pulp & Paper Products,https://minepapir.no/
+527,a8f4cc61-0ab0-11ec-b811-6124f8ab6766,GO-S VALBARD,,Norway,NO,,,231748.0,1.0,,Publishers & Media Companies,Leisure Facilities,https://www.go-svalbard.no/
+528,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,Teleteamet A/S.,Teleteamet A/S. | Teleteamet Holding A/S.,Denmark,DK,Region Of Southern Denmark,Odense,47068976.0,75.0,,IT&C Services,Telecommunication Services,http://teleteamet.dk/
+529,bdf9ef01-b77a-11ed-be56-5737ab22b0ef,TELITI TEKNIK,TELITI TEKNIK M SDN BHD.,Malaysia,MY,Selangor,Sungai Buloh,,,2005.0,IT&C Services,,http://www.telititeknik.com.my/
+530,82f1b671-106e-11ee-96a3-3bc9ea359402,Textilia,Textilia Group A/S.,Denmark,DK,Capital Region Of Denmark,Ballerup,14575085.0,150.0,1958.0,Other Professional Services,"Apparel, Accessories & Footwear",http://textilia.dk/
+531,22d880ae-93e5-11eb-8e19-198fb02d6f96,Thai Life Insurance,,Thailand,TH,Bangkok,Bangkok,2000000000.0,45000.0,1942.0,Finance & Insurance,Insurance,http://www.thailife.com/
+532,0805c373-03db-11ed-ae63-cb3f94ab6799,SETEC,,Germany,DE,Baden-Württemberg,Kirchheim Unter Teck,154360.0,1.0,1995.0,Construction,Wind Technology & Project Developers,https://setec-dresden.de/
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Gemalto Norge AS,,Norway,NO,Oslo,Oslo,,,,,,
+534,34199bd1-1b06-11ec-8a43-a1f4156da652,Thales Sverige AB.,Thales Sverige AB.,Sweden,SE,Stockholm County,Stockholms Kommun,,,,,,
+535,8dfb5f3d-93e4-11eb-a33a-a3dfba582839,Negotia,,Norway,NO,Viken,Bærum,,,,IT&C Services,Software & IT Services,https://negotiaevry.org/
+536,8dfb5f3d-93e4-11eb-a33a-a3dfba582839,Negotia,,Norway,NO,Viken,Bærum,,,,IT&C Services,Software & IT Services,https://negotiaevry.org/
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,TINEX Group,,Norway,NO,Oslo,Oslo,5715034.0,6.0,1991.0,IT&C Services,Telecommunication Services,https://www.tinexgroup.no/
+538,2fc4267e-93e5-11eb-b4a6-27899be4e45d,TM One,TM TECHNOLOGY SERVICES SDN. BHD.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,500000.0,1100.0,1991.0,IT&C Services,Software & IT Services,https://www.tmone.com.my/
+539,b41391a2-93e4-11eb-97db-273ba5953680,Tongyu communication,Tongyu Communication Equipment Co. Ltd. | Guangdong Tongyu Communications Co. Ltd.,China,CN,Guangdong Province,Zhongshan,177100000.0,35.0,1996.0,Electronics & Appliances,Telecommunication Services,https://tycc.cn/
+540,fedb5170-bfb3-11ec-aa0f-71bbddca30bf,LINK Logistics International Network,,Hong Kong,HK,Hong Kong,Kowloon,,1.0,1994.0,,,
+541,712e21b9-f0b1-11ee-8297-17c39b32c1d5,TPM Data,,,,,,,1.0,,Blogs & Publications,Software & IT Services,https://www.tpmdata.com/
+542,77adc9aa-92f2-11ef-840e-3d3003770a6f,Tradium - EUD10 Randers,,Denmark,DK,Central Denmark Region,Randers,,,,,,
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,TRANSMODE SYSTEMS AB.,TRANSMODE SYSTEMS AB.,Sweden,SE,Stockholm County,Stockholm,,1.0,,,,
+544,7f4688c8-ad32-11ef-8c9e-31c2725f601c,Touch of Trend Singapore,,Singapore,SG,Central,Singapore,,,,"Apparel, Accessories & Footwear",Multiline and Specialty Retailers & Distributors,https://totbridal.sg/
+545,0bbb730a-93e5-11eb-be3a-7f925cb94351,Trifork Academy,Trifork A/S.,Denmark,DK,Central Denmark Region,Aarhus,13319402.0,75.0,,Education,Education,https://triforkacademy.dk/
+546,4c667ccb-13c6-11ec-9836-ef7b0600cc53,True Move H Universal Communication Company Limited,True Move H Universal Communication Company Limited,Thailand,TH,Khon Kaen Province,Khon Kaen,,,,IT&C Services,,https://www.truemove-h.com/
+547,8b944a32-93e4-11eb-86dd-ffbd1b53140e,TRUSTZONE,TRUSTZONE A/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,5614217.0,25.0,2004.0,IT&C Services,Software & IT Services,https://trustzone.com/
+548,71e8b500-c72b-11ec-983a-3be7dc024fc3,OUM,TT DOTCOM SDN BHD.,,,,,,,,Education,Education,http://oum.edu.my.w3snoop.com/
+549,f1ca36c3-93e4-11eb-9937-4fab995bf8ff,TT Network,TT-Netværket P/S.,Denmark,DK,Capital Region Of Denmark,Copenhagen,,,2012.0,IT&C Services,Telecommunication Services,https://www.tt-network.dk/
+550,c5b76852-93e4-11eb-be3a-7f925cb94351,Tutela,,Canada,CA,British Columbia,Victoria,12000000.0,3.0,2011.0,IT&C Services,Software & IT Services,https://www.tutela.com/
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,TXO Systems Ltd.,TXO Systems Ltd.,United Kingdom,GB,Wales,Chepstow,37300000.0,,2005.0,,,
+552,0cec0a65-918f-11ed-8685-0d799fbc3c64,UiPath Immersion Lab,,Romania,RO,Bucharest,Bucharest,,,,,,https://uipath.ro/
+553,000a16f1-de4e-11ed-a204-01928eda0b9b,Uniteam,Uniteam Pvt Ltd.,Pakistan,PK,Sindh,Saddar Town,280704.0,75.0,1989.0,Architecture & Engineering Services,Engineering & Construction Services,http://uniteam.com.pk/
+554,2950b10d-93e5-11eb-919a-b3f9a5ad205c,UIH,United Information Highway Co. Ltd.,Thailand,TH,Bangkok,Chatuchak,3797702.0,150.0,,IT&C Services,Telecommunication Services,http://www.uih.co.th/
+555,d21a0337-03a5-11ec-a873-d574c694d6a6,Roested,Roested Partners ApS.,Denmark,DK,Capital Region Of Denmark,Kongens Lyngby,211696.0,1.0,,Other Professional Services,Asset Management & Custody Activities,https://roested.dk/
+556,e5d58700-d139-11ec-90aa-d5cfd1428197,Utel AS,,Norway,NO,Agder,Grimstad,5100000.0,27.0,1998.0,IT&C Services,Telecommunication Services,https://utel.tech/
+557,0330dd63-93e5-11eb-a746-fdabd18be9c6,Vantiva,Vantiva S.A. | Thomson sa. | Technicolor Motion Picture Corp. | Thomson Inc. | Technicolor SA.,France,FR,Ile-de-France,Issy-les-Moulineaux,3110750208.0,16676.0,1998.0,IT&C Services,Telecommunication Services,http://www.vantiva.com/
+558,6eb19357-93e4-11eb-91fb-73d498260b10,Vertiv,Vertiv Inc.,United States,US,New Jersey,Princeton,7000000.0,3000.0,2011.0,IT&C Services,Software & IT Services,http://www.vertivsl.com/
+559,ccf9e8fb-6dae-11ec-a0a5-5d41d5e823b0,Vertiv,Vertiv Co.,Japan,JP,Tokyo,Tokyo,,,,Electronics & Appliances,Electrical & Electronic Equipment,https://www.vertiv-jp.com/
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,Vertiv Energy Private Limited,Vertiv Energy Private Limited | VERTIV LIMITED | Vertiv Co.,India,IN,Maharashtra,Pune,,,,Construction,,
+561,f7c59602-93e4-11eb-b5f6-816dd10ac7b0,2nd phase design,,Singapore,SG,Southeast,,10906026.0,35.0,2008.0,Architecture & Engineering Services,Engineering & Construction Services,https://www.2ndphasedesign.com/
+562,a8089090-d8d5-11ec-a2a7-a103c2828e6a,Viaplay Group,Viaplay Group AB. | Nordic Entertainment Group AB.,Sweden,SE,Stockholm County,Stockholm,1151112445952.0,1708.0,2018.0,Publishers & Media Companies,,https://www.viaplaygroup.com/en
+563,d17f4eab-93e4-11eb-90d2-e3355a7e800b,TRACKING WORLD,Tracking World Pvt. Limited,Pakistan,PK,Punjab,Lahore,2000000.0,180.0,2004.0,IT&C Services,Auto Parts,https://trackingworld.com.pk/
+564,26d5dd10-e99d-11ec-a18d-1bbf1e1e41f1,Vidensportal,,Denmark,DK,Region Of Southern Denmark,Odense Kommune,,,,Government,Health Care Delivery,https://social.dk/
+565,ed5cca83-93e4-11eb-8859-29e7c34dee35,Voxogo Aps. Store Kongensgade,Voxogo ApS.,Denmark,DK,Capital Region Of Denmark,Copenhagen,18474564.0,75.0,,IT&C Services,Telecommunication Services,https://voxogo.com/
+566,fea744d1-d00d-11ec-a47a-0729ecf6f729,WATCHDATA TECHNOLOGIES,WATCHDATA TECHNOLOGIES PTE LTD.,,,,,,,,IT&C Services,Software & IT Services,https://www.nohken-jp.com/
+567,01a825b8-6cda-11ec-9b86-b57766cd3ae5,Multi-Task Solution,Multi-Task Solutions Pvt. Limited,Pakistan,PK,Punjab,Lahore,26671.0,6.0,2019.0,IT&C Services,Software & IT Services,https://multitasksols.com/
+568,554b36c9-cde9-11ed-9413-23dad132474c,Waystream,,,,,,,75.0,,Publishers & Media Companies,Media & Entertainment,https://waystre.am/
+569,12bfb6c1-93e5-11eb-b89f-536884b3e7dd,Wideroe Technical,,Norway,NO,Nordland,Bodø,,110.0,1934.0,Other Capital Goods,,https://wideroetechnical.com/
+570,01eb8c25-93e5-11eb-b4a6-27899be4e45d,Wilke A S Aarhus,Wilke A/S.,Denmark,DK,Region Of Southern Denmark,Odense,54200000.0,130.0,1999.0,Advertising & Marketing,Advertising & Marketing,https://wilke.dk/
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,Wipro Limited,India,IN,Karnataka,Mysuru,,,,IT&C Services,,
+572,f5b10fd3-0321-11ee-b9c7-d945c48165b4,Wipro Limited Singapore Branch,,Singapore,SG,Central,Singapore,,,,,,
+573,727be343-ba6f-11eb-a6d9-7794e56e1994,Wire & Wireless,Wire & Wireless Co. Ltd.,Thailand,TH,Bangkok,Suan Luang,,,1995.0,Construction,Electrical & Electronic Equipment,https://www.ww.co.th/
+574,3292ddfa-49a2-11ef-b038-5f34ee61aa4b,Woodlands Transport Service Pte Ltd.,Woodlands Transport Service Pte Ltd.,Singapore,SG,Central,Singapore,,7.0,1974.0,,,
+575,bd9e2ba0-f283-11ec-a20d-1792e1239b70,Better workday,Better Workday Ltd.,Ireland,IE,Leinster,Dublin,328133.0,1.0,2022.0,Education,Health Care Delivery,https://abetterworkday.com/
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,WTW Real Estate Sdn. Bhd.,WTW Real Estate Sdn. Bhd.,Malaysia,MY,Johor,Johor Bahru,,,,Real Estate,,
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,xIT Software,xIT Software ApS.,Denmark,DK,Capital Region Of Denmark,Gentofte Municipality,,,2003.0,IT&C Services,Software & IT Services,http://xit-software.dk/
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,Yangtze Optical Fibre and Cable Joint Stock,Fibre and Cable Joint Stock Limited,China,CN,Hubei,Wuhan,,,1988.0,Pharmaceuticals & Cosmetics,,https://www.yofc.com.cn/
+579,e26d008f-4dae-11ee-820a-3797d6fca93c,Yinda Infocomm,Yinda Technology Thailand Co. Ltd.,Thailand,TH,Bangkok,Huai Khwang,5899469.0,150.0,2003.0,IT&C Services,Telecommunication Services,http://yinda.co.th/
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,Zalaris HR Services Danmark A/S.,Zalaris HR Services Danmark A/S.,Denmark,DK,Capital Region Of Denmark,Taastrup,,,,Other Professional Services,,https://zalaris.dk/?opi=79508299&sa=U&ved=0ahUKEwjjxIfdn6yMAxWrF1kFHb3-GMgQ61gIFCgQ&usg=AOvVaw0LBcrYRO_Oh_bzGQjyNvqE
+581,2232e03f-ff78-11eb-a358-8dbe3201bc48,Music Aggregation Services Finland Oy.,Music Aggregation Services Finland Oy.,Finland,FI,Pirkanmaa,Tampere,1344638.0,3.0,2018.0,Publishers & Media Companies,Media & Entertainment,https://masf.fi/
+582,073efda1-485e-11ee-8aaf-6f1f38b587cf,Mortenlaks,,Norway,NO,Nordland,Lødingen,,,,"Agriculture, Forestry, Fishing and Hunting","Meat, Poultry & Dairy",https://mortenlaks.no/
+583,28b4ac6a-b989-11ec-9415-2f89cc4d8f8b,Zalaris,Zalaris ASA. | Zalaris Hr Services India Pvt Ltd. | Zalaris SP. Z O.O.,Sweden,SE,Stockholm County,Solna,,,,Finance & Insurance,,
+584,ae69fbe1-93e4-11eb-be3a-7f925cb94351,Zendata,Zendata ApS.,Denmark,DK,Capital Region Of Denmark,Hillerød,1188129.0,5.0,2010.0,IT&C Services,Software & IT Services,https://zendata.dk/
+585,4d56b450-e160-11eb-affd-256fd8cf1b98,Lahore Warehouse pko3,ZHONGXING Telecom Pakistan pvt Ltd.,Pakistan,PK,Punjab,Lahore,,,2007.0,Transport & Warehousing,Air Freight & Logistics,https://ztewarehouse.webs.com/
+586,212440e2-b7a6-11ef-866b-2be30c022167,Ziff Davis Inc.,Ziff Davis Inc.,United States,US,New York,New York,,,,IT&C Services,Telecommunication Services,https://zdbvps.pages.dev/
+587,00e2e633-004b-11ec-bb42-ffae64d56dd2,Malik Streams,Malik Streams Corporation Sdn Bhd.,Malaysia,MY,Kuala Lumpur,Kuala Lumpur,2862479.0,10.0,2017.0,Food & Beverages,Electrical & Electronic Equipment,https://malikstreams.com.my/
+588,3a1f7b24-683a-11ee-92e5-016d0f508b74,ZTE Thailand,,Thailand,TH,Bangkok,Sathon,5095857.0,79.0,1985.0,IT&C Services,,
+589,ced3b8a4-182c-11ef-b44a-43a7b3b6577a,ZTE Corporation Division,,China,CN,Guangdong Province,Shenzhen,,,,,,
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE Corporation Bangladesh Limited,ZTE Corporation Bangladesh Limited,Bangladesh,BD,Dhaka Division,Dhaka,,,,IT&C Services,,
+591,05b20a12-93e5-11eb-9937-4fab995bf8ff,Bwell Norge,,Norway,NO,Viken,Bærum,2188504.0,15.0,2008.0,Health Care & Social Assistance,Health Care Delivery,http://www.bwell.no/

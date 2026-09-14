@@ -1,0 +1,15 @@
+Column Name,Missing Count,Fill Rate (%)
+input_row_key,0,100.0
+veridion_id,0,100.0
+company_name,0,100.0
+company_legal_names,222,62.5
+main_country,36,93.91891891891892
+main_country_code,36,93.91891891891892
+main_region,60,89.86486486486487
+main_city,72,87.83783783783784
+revenue,272,54.054054054054056
+employee_count,246,58.445945945945944
+year_founded,328,44.5945945945946
+main_sector,82,86.14864864864865
+sics_codified_industry,206,65.2027027027027
+website_url,133,77.53378378378379
